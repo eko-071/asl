@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SignLink</title>
+
+  <!-- PeerJS CDN -->
+  <script src="https://unpkg.com/peerjs@1.5.4/dist/peerjs.min.js"></script>
+
+  <style>
+    body {
+      margin: 0;
+      background: #0f0f0f;
+      color: white;
+      font-family: system-ui, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .wrap {
+      text-align: center;
+    }
+
+    .video-box {
+      position: relative;
+      width: 900px;
+      max-width: 95vw;
+    }
+
+    video {
+      width: 100%;
+      background: black;
+      border-radius: 16px;
+    }
+
+    #local {
+      position: absolute;
+      width: 170px;
+      bottom: 14px;
+      right: 14px;
+      border-radius: 12px;
+      border: 2px solid white;
+    }
+
+    /* captions */
+    #caption {
+      position: absolute;
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(0,0,0,0.75);
+      padding: 10px 18px;
+      border-radius: 10px;
+      font-size: 22px;
+      font-weight: 600;
+      opacity: 0;
+      transition: 0.2s;
+    }
+
+    #caption.show {
+      opacity: 1;
+    }
+
+    .controls {
+      margin-top: 14px;
+    }
+
+    input {
+      padding: 6px;
+      width: 150px;
+      border-radius: 6px;
+      border: none;
+    }
+
+    button {
+      padding: 6px 12px;
+      border-radius: 6px;
+      border: none;
+      cursor: pointer;
+    }
+
+    /* clean white ID */
+    #myId {
+      font-size: 22px;
+      font-weight: bold;
+      color: white;
+      letter-spacing: 2px;
+    }
+
+    /* Role selection */
+    #roleSelection {
+      text-align: center;
+    }
+
+    #roleSelection h1 {
+      font-size: 48px;
+      margin-bottom: 40px;
+    }
+
+    .role-btn {
+      padding: 24px 48px;
+      margin: 10px;
+      font-size: 20px;
+      background: #333;
+      color: white;
+      border: 2px solid white;
+      border-radius: 16px;
+      cursor: pointer;
+      transition: 0.3s;
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .role-btn .icon {
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    .role-btn:hover {
+      background: white;
+      color: #0f0f0f;
+      transform: scale(1.05);
+    }
+
+    #app {
+      display: none;
+    }
+
+    #app.active {
+      display: block;
+    }
+
+    /* Copy button */
+    .copy-btn {
+      background: transparent;
+      border: none;
+      color: #888;
+      cursor: pointer;
+      padding: 4px 8px;
+      font-size: 14px;
+      transition: 0.2s;
+    }
+
+    .copy-btn:hover {
+      color: white;
+    }
+
+    /* Connection status */
+    .status {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #888;
+    }
+
+    .status.connecting .status-dot {
+      background: #f0a500;
+      animation: pulse 1s infinite;
+    }
+
+    .status.connected .status-dot {
+      background: #00c853;
+    }
+
+    .status.disconnected .status-dot {
+      background: #888;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    /* End call button */
+    .end-call-btn {
+      background: #e53935;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-size: 16px;
+      display: none;
+      margin-left: 10px;
+    }
+
+    .end-call-btn:hover {
+      background: #c62828;
+    }
+
+    .end-call-btn.active {
+      display: inline-block;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Role Selection -->
+  <div id="roleSelection">
+    <h1>SignLink</h1>
+    <button class="role-btn" onclick="selectRole('deaf')">
+      <span class="icon">ASL</span>
+      <span>I'm Deaf</span>
+    </button>
+    <button class="role-btn" onclick="selectRole('hearing')">
+      <span class="icon">Hear</span>
+      <span>I'm Hearing</span>
+    </button>
+  </div>
+
+  <!-- Main App -->
+  <div id="app" class="wrap">
+
+    <div class="video-box">
+      <video id="remote" autoplay playsinline></video>
+      <video id="local" autoplay muted playsinline></video>
+      <div id="caption"></div>
+    </div>
+
+    <div class="controls">
+      <div id="status" class="status disconnected">
+        <span class="status-dot"></span>
+        <span id="statusText">Not connected</span>
+      </div>
+      <p>Your ID: <span id="myId">...</span><button class="copy-btn" id="copyBtn" title="Copy ID">Copy</button></p>
+      <input id="peerId" placeholder="Friend ID" />
+      <button id="callBtn" disabled>Call</button>
+      <button id="endCallBtn" class="end-call-btn">End Call</button>
+    </div>
+
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>

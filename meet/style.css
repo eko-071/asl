@@ -1,0 +1,158 @@
+/* Control tray - floating at bottom of video */
+.control-tray {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  display: flex;
+  gap: 15px;
+  background: rgba(40, 40, 40, 0.9); /* Darker background for contrast */
+  padding: 10px 20px;
+  border-radius: 30px; /* Pill shape */
+  backdrop-filter: blur(10px);
+  z-index: 10;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.control-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition: all 0.2s ease;
+}
+
+/* SVG sizing */
+.control-btn .icon {
+  width: 24px;
+  height: 24px;
+  fill: currentColor; /* inherits button color */
+}
+
+/* Icon Sizing */
+.control-btn svg {
+  width: 24px;
+  height: 24px;
+  stroke-width: 2;
+}
+
+/* Hover Effect */
+.control-btn:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-2px);
+}
+
+.control-btn:active {
+  transform: scale(0.95);
+}
+
+/* --- STATE: OFF (Red for Mic/Cam) --- */
+.control-btn.off {
+  background: #ea4335; /* Google Meet Red */
+  color: white;
+}
+
+.control-btn.off:hover {
+  background: #d93025;
+}
+
+/* Slash effect for disabled state */
+.control-btn.off::after {
+  content: '';
+  position: absolute;
+  width: 2px;
+  height: 26px; /* Adjusted height */
+  background: white;
+  transform: rotate(45deg);
+  border-radius: 2px;
+}
+
+/* --- BUTTON: End Call (Always Red) --- */
+.end-call-btn {
+  background: #ea4335;
+  width: 60px; /* Make hangup button slightly wider/larger */
+  border-radius: 20px; /* Squircle shape for hangup */
+}
+
+.end-call-btn:hover {
+  background: #d93025;
+}
+
+/* --- BUTTON: Inference (AI Recognition) --- */
+#inferenceBtn {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+#inferenceBtn.active {
+  background: #4285f4; /* Google Blue */
+  animation: pulse 2s infinite;
+}
+
+#inferenceBtn.active:hover {
+  background: #357ae8;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    background: #4285f4;
+  }
+  50% {
+    background: #5a9cff;
+  }
+}
+
+#inferenceBtn.loading {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Buffer status indicator */
+.buffer-status {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  color: #aaa;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  display: none;
+  z-index: 9;
+}
+
+.buffer-status.show {
+  display: block;
+}
+
+.buffer-status #bufferPercentage {
+  color: #4285f4;
+  font-weight: bold;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .control-tray {
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20px;
+    padding: 8px 16px;
+  }
+  
+  .buffer-status {
+    top: 10px;
+    right: 10px;
+    font-size: 11px;
+  }
+}

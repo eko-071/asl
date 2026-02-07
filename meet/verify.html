@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ASL Meet - Syntax Verification</title>
+  <style>
+    body {
+      font-family: monospace;
+      padding: 20px;
+      background: #1e1e1e;
+      color: #d4d4d4;
+    }
+    .result { margin: 10px 0; padding: 10px; border-radius: 4px; }
+    .ok { background: #2d5b2d; color: #90ee90; }
+    .error { background: #5b2d2d; color: #ff6b6b; }
+    .info { background: #2d3f5b; color: #87ceeb; }
+  </style>
+</head>
+<body>
+  <h1>ASL Meet - Code Verification</h1>
+  <div id="results"></div>
+
+  <script>
+    const results = document.getElementById('results');
+    let passCount = 0;
+    let failCount = 0;
+
+    function log(message, type = 'info') {
+      const div = document.createElement('div');
+      div.className = `result ${type}`;
+      div.textContent = message;
+      results.appendChild(div);
+      
+      if (type === 'ok') passCount++;
+      if (type === 'error') failCount++;
+    }
+
+    // Check if files are loaded
+    log('Checking implementation...', 'info');
+
+    // Check I3DInference class exists (will be checked when loaded)
+    setTimeout(() => {
+      if (typeof I3DInference !== 'undefined') {
+        log('✓ I3DInference class defined', 'ok');
+        
+        // Check methods exist
+        const methods = ['loadModel', 'addFrame', 'infer', 'getPredictions', 'getBufferFillPercentage', 'clearBuffer'];
+        methods.forEach(method => {
+          if (typeof I3DInference.prototype[method] === 'function') {
+            log(`✓ I3DInference.${method}() exists`, 'ok');
+          } else {
+            log(`✗ I3DInference.${method}() missing`, 'error');
+          }
+        });
+      } else {
+        log('⚠ I3DInference not loaded yet', 'info');
+      }
+
+      // Check DOM elements
+      const elements = ['local', 'remote', 'caption', 'myId', 'callBtn', 'peerId', 'inferenceBtn', 'bufferStatus', 'bufferPercentage'];
+      elements.forEach(id => {
+        if (document.getElementById(id)) {
+          log(`✓ Element #${id} exists`, 'ok');
+        }
+      });
+
+      // Summary
+      log(`\nResults: ${passCount} passed, ${failCount} failed`, passCount > failCount ? 'ok' : 'error');
+    }, 1000);
+  </script>
+
+  <!-- Load the modules -->
+  <script src="i3d-inference.js"></script>
+</body>
+</html>

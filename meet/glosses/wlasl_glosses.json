@@ -1,0 +1,8002 @@
+[
+  {
+    "gloss": "book",
+    "id": 0
+  },
+  {
+    "gloss": "drink",
+    "id": 1
+  },
+  {
+    "gloss": "computer",
+    "id": 2
+  },
+  {
+    "gloss": "before",
+    "id": 3
+  },
+  {
+    "gloss": "chair",
+    "id": 4
+  },
+  {
+    "gloss": "go",
+    "id": 5
+  },
+  {
+    "gloss": "clothes",
+    "id": 6
+  },
+  {
+    "gloss": "who",
+    "id": 7
+  },
+  {
+    "gloss": "candy",
+    "id": 8
+  },
+  {
+    "gloss": "cousin",
+    "id": 9
+  },
+  {
+    "gloss": "deaf",
+    "id": 10
+  },
+  {
+    "gloss": "fine",
+    "id": 11
+  },
+  {
+    "gloss": "help",
+    "id": 12
+  },
+  {
+    "gloss": "no",
+    "id": 13
+  },
+  {
+    "gloss": "thin",
+    "id": 14
+  },
+  {
+    "gloss": "walk",
+    "id": 15
+  },
+  {
+    "gloss": "year",
+    "id": 16
+  },
+  {
+    "gloss": "yes",
+    "id": 17
+  },
+  {
+    "gloss": "all",
+    "id": 18
+  },
+  {
+    "gloss": "black",
+    "id": 19
+  },
+  {
+    "gloss": "cool",
+    "id": 20
+  },
+  {
+    "gloss": "finish",
+    "id": 21
+  },
+  {
+    "gloss": "hot",
+    "id": 22
+  },
+  {
+    "gloss": "like",
+    "id": 23
+  },
+  {
+    "gloss": "many",
+    "id": 24
+  },
+  {
+    "gloss": "mother",
+    "id": 25
+  },
+  {
+    "gloss": "now",
+    "id": 26
+  },
+  {
+    "gloss": "orange",
+    "id": 27
+  },
+  {
+    "gloss": "table",
+    "id": 28
+  },
+  {
+    "gloss": "thanksgiving",
+    "id": 29
+  },
+  {
+    "gloss": "what",
+    "id": 30
+  },
+  {
+    "gloss": "woman",
+    "id": 31
+  },
+  {
+    "gloss": "bed",
+    "id": 32
+  },
+  {
+    "gloss": "blue",
+    "id": 33
+  },
+  {
+    "gloss": "bowling",
+    "id": 34
+  },
+  {
+    "gloss": "can",
+    "id": 35
+  },
+  {
+    "gloss": "dog",
+    "id": 36
+  },
+  {
+    "gloss": "family",
+    "id": 37
+  },
+  {
+    "gloss": "fish",
+    "id": 38
+  },
+  {
+    "gloss": "graduate",
+    "id": 39
+  },
+  {
+    "gloss": "hat",
+    "id": 40
+  },
+  {
+    "gloss": "hearing",
+    "id": 41
+  },
+  {
+    "gloss": "kiss",
+    "id": 42
+  },
+  {
+    "gloss": "language",
+    "id": 43
+  },
+  {
+    "gloss": "later",
+    "id": 44
+  },
+  {
+    "gloss": "man",
+    "id": 45
+  },
+  {
+    "gloss": "shirt",
+    "id": 46
+  },
+  {
+    "gloss": "study",
+    "id": 47
+  },
+  {
+    "gloss": "tall",
+    "id": 48
+  },
+  {
+    "gloss": "white",
+    "id": 49
+  },
+  {
+    "gloss": "wrong",
+    "id": 50
+  },
+  {
+    "gloss": "accident",
+    "id": 51
+  },
+  {
+    "gloss": "apple",
+    "id": 52
+  },
+  {
+    "gloss": "bird",
+    "id": 53
+  },
+  {
+    "gloss": "change",
+    "id": 54
+  },
+  {
+    "gloss": "color",
+    "id": 55
+  },
+  {
+    "gloss": "corn",
+    "id": 56
+  },
+  {
+    "gloss": "cow",
+    "id": 57
+  },
+  {
+    "gloss": "dance",
+    "id": 58
+  },
+  {
+    "gloss": "dark",
+    "id": 59
+  },
+  {
+    "gloss": "doctor",
+    "id": 60
+  },
+  {
+    "gloss": "eat",
+    "id": 61
+  },
+  {
+    "gloss": "enjoy",
+    "id": 62
+  },
+  {
+    "gloss": "forget",
+    "id": 63
+  },
+  {
+    "gloss": "give",
+    "id": 64
+  },
+  {
+    "gloss": "last",
+    "id": 65
+  },
+  {
+    "gloss": "meet",
+    "id": 66
+  },
+  {
+    "gloss": "pink",
+    "id": 67
+  },
+  {
+    "gloss": "pizza",
+    "id": 68
+  },
+  {
+    "gloss": "play",
+    "id": 69
+  },
+  {
+    "gloss": "school",
+    "id": 70
+  },
+  {
+    "gloss": "secretary",
+    "id": 71
+  },
+  {
+    "gloss": "short",
+    "id": 72
+  },
+  {
+    "gloss": "time",
+    "id": 73
+  },
+  {
+    "gloss": "want",
+    "id": 74
+  },
+  {
+    "gloss": "work",
+    "id": 75
+  },
+  {
+    "gloss": "africa",
+    "id": 76
+  },
+  {
+    "gloss": "basketball",
+    "id": 77
+  },
+  {
+    "gloss": "birthday",
+    "id": 78
+  },
+  {
+    "gloss": "brown",
+    "id": 79
+  },
+  {
+    "gloss": "but",
+    "id": 80
+  },
+  {
+    "gloss": "cheat",
+    "id": 81
+  },
+  {
+    "gloss": "city",
+    "id": 82
+  },
+  {
+    "gloss": "cook",
+    "id": 83
+  },
+  {
+    "gloss": "decide",
+    "id": 84
+  },
+  {
+    "gloss": "full",
+    "id": 85
+  },
+  {
+    "gloss": "how",
+    "id": 86
+  },
+  {
+    "gloss": "jacket",
+    "id": 87
+  },
+  {
+    "gloss": "letter",
+    "id": 88
+  },
+  {
+    "gloss": "medicine",
+    "id": 89
+  },
+  {
+    "gloss": "need",
+    "id": 90
+  },
+  {
+    "gloss": "paint",
+    "id": 91
+  },
+  {
+    "gloss": "paper",
+    "id": 92
+  },
+  {
+    "gloss": "pull",
+    "id": 93
+  },
+  {
+    "gloss": "purple",
+    "id": 94
+  },
+  {
+    "gloss": "right",
+    "id": 95
+  },
+  {
+    "gloss": "same",
+    "id": 96
+  },
+  {
+    "gloss": "son",
+    "id": 97
+  },
+  {
+    "gloss": "tell",
+    "id": 98
+  },
+  {
+    "gloss": "thursday",
+    "id": 99
+  },
+  {
+    "gloss": "visit",
+    "id": 100
+  },
+  {
+    "gloss": "wait",
+    "id": 101
+  },
+  {
+    "gloss": "water",
+    "id": 102
+  },
+  {
+    "gloss": "wife",
+    "id": 103
+  },
+  {
+    "gloss": "yellow",
+    "id": 104
+  },
+  {
+    "gloss": "backpack",
+    "id": 105
+  },
+  {
+    "gloss": "bar",
+    "id": 106
+  },
+  {
+    "gloss": "brother",
+    "id": 107
+  },
+  {
+    "gloss": "cat",
+    "id": 108
+  },
+  {
+    "gloss": "check",
+    "id": 109
+  },
+  {
+    "gloss": "class",
+    "id": 110
+  },
+  {
+    "gloss": "cry",
+    "id": 111
+  },
+  {
+    "gloss": "different",
+    "id": 112
+  },
+  {
+    "gloss": "door",
+    "id": 113
+  },
+  {
+    "gloss": "green",
+    "id": 114
+  },
+  {
+    "gloss": "hair",
+    "id": 115
+  },
+  {
+    "gloss": "have",
+    "id": 116
+  },
+  {
+    "gloss": "headache",
+    "id": 117
+  },
+  {
+    "gloss": "inform",
+    "id": 118
+  },
+  {
+    "gloss": "knife",
+    "id": 119
+  },
+  {
+    "gloss": "laugh",
+    "id": 120
+  },
+  {
+    "gloss": "learn",
+    "id": 121
+  },
+  {
+    "gloss": "movie",
+    "id": 122
+  },
+  {
+    "gloss": "rabbit",
+    "id": 123
+  },
+  {
+    "gloss": "read",
+    "id": 124
+  },
+  {
+    "gloss": "red",
+    "id": 125
+  },
+  {
+    "gloss": "room",
+    "id": 126
+  },
+  {
+    "gloss": "run",
+    "id": 127
+  },
+  {
+    "gloss": "show",
+    "id": 128
+  },
+  {
+    "gloss": "sick",
+    "id": 129
+  },
+  {
+    "gloss": "snow",
+    "id": 130
+  },
+  {
+    "gloss": "take",
+    "id": 131
+  },
+  {
+    "gloss": "tea",
+    "id": 132
+  },
+  {
+    "gloss": "teacher",
+    "id": 133
+  },
+  {
+    "gloss": "week",
+    "id": 134
+  },
+  {
+    "gloss": "why",
+    "id": 135
+  },
+  {
+    "gloss": "with",
+    "id": 136
+  },
+  {
+    "gloss": "write",
+    "id": 137
+  },
+  {
+    "gloss": "yesterday",
+    "id": 138
+  },
+  {
+    "gloss": "again",
+    "id": 139
+  },
+  {
+    "gloss": "bad",
+    "id": 140
+  },
+  {
+    "gloss": "ball",
+    "id": 141
+  },
+  {
+    "gloss": "bathroom",
+    "id": 142
+  },
+  {
+    "gloss": "blanket",
+    "id": 143
+  },
+  {
+    "gloss": "buy",
+    "id": 144
+  },
+  {
+    "gloss": "call",
+    "id": 145
+  },
+  {
+    "gloss": "coffee",
+    "id": 146
+  },
+  {
+    "gloss": "cold",
+    "id": 147
+  },
+  {
+    "gloss": "college",
+    "id": 148
+  },
+  {
+    "gloss": "copy",
+    "id": 149
+  },
+  {
+    "gloss": "cute",
+    "id": 150
+  },
+  {
+    "gloss": "daughter",
+    "id": 151
+  },
+  {
+    "gloss": "example",
+    "id": 152
+  },
+  {
+    "gloss": "far",
+    "id": 153
+  },
+  {
+    "gloss": "first",
+    "id": 154
+  },
+  {
+    "gloss": "friend",
+    "id": 155
+  },
+  {
+    "gloss": "good",
+    "id": 156
+  },
+  {
+    "gloss": "happy",
+    "id": 157
+  },
+  {
+    "gloss": "home",
+    "id": 158
+  },
+  {
+    "gloss": "know",
+    "id": 159
+  },
+  {
+    "gloss": "late",
+    "id": 160
+  },
+  {
+    "gloss": "leave",
+    "id": 161
+  },
+  {
+    "gloss": "list",
+    "id": 162
+  },
+  {
+    "gloss": "lose",
+    "id": 163
+  },
+  {
+    "gloss": "name",
+    "id": 164
+  },
+  {
+    "gloss": "old",
+    "id": 165
+  },
+  {
+    "gloss": "person",
+    "id": 166
+  },
+  {
+    "gloss": "police",
+    "id": 167
+  },
+  {
+    "gloss": "problem",
+    "id": 168
+  },
+  {
+    "gloss": "remember",
+    "id": 169
+  },
+  {
+    "gloss": "share",
+    "id": 170
+  },
+  {
+    "gloss": "soon",
+    "id": 171
+  },
+  {
+    "gloss": "stay",
+    "id": 172
+  },
+  {
+    "gloss": "sunday",
+    "id": 173
+  },
+  {
+    "gloss": "test",
+    "id": 174
+  },
+  {
+    "gloss": "tired",
+    "id": 175
+  },
+  {
+    "gloss": "trade",
+    "id": 176
+  },
+  {
+    "gloss": "travel",
+    "id": 177
+  },
+  {
+    "gloss": "window",
+    "id": 178
+  },
+  {
+    "gloss": "you",
+    "id": 179
+  },
+  {
+    "gloss": "about",
+    "id": 180
+  },
+  {
+    "gloss": "approve",
+    "id": 181
+  },
+  {
+    "gloss": "arrive",
+    "id": 182
+  },
+  {
+    "gloss": "balance",
+    "id": 183
+  },
+  {
+    "gloss": "banana",
+    "id": 184
+  },
+  {
+    "gloss": "beard",
+    "id": 185
+  },
+  {
+    "gloss": "because",
+    "id": 186
+  },
+  {
+    "gloss": "boy",
+    "id": 187
+  },
+  {
+    "gloss": "business",
+    "id": 188
+  },
+  {
+    "gloss": "careful",
+    "id": 189
+  },
+  {
+    "gloss": "center",
+    "id": 190
+  },
+  {
+    "gloss": "chat",
+    "id": 191
+  },
+  {
+    "gloss": "children",
+    "id": 192
+  },
+  {
+    "gloss": "christmas",
+    "id": 193
+  },
+  {
+    "gloss": "clock",
+    "id": 194
+  },
+  {
+    "gloss": "close",
+    "id": 195
+  },
+  {
+    "gloss": "convince",
+    "id": 196
+  },
+  {
+    "gloss": "country",
+    "id": 197
+  },
+  {
+    "gloss": "crash",
+    "id": 198
+  },
+  {
+    "gloss": "day",
+    "id": 199
+  },
+  {
+    "gloss": "discuss",
+    "id": 200
+  },
+  {
+    "gloss": "dress",
+    "id": 201
+  },
+  {
+    "gloss": "drive",
+    "id": 202
+  },
+  {
+    "gloss": "drop",
+    "id": 203
+  },
+  {
+    "gloss": "fat",
+    "id": 204
+  },
+  {
+    "gloss": "feel",
+    "id": 205
+  },
+  {
+    "gloss": "football",
+    "id": 206
+  },
+  {
+    "gloss": "future",
+    "id": 207
+  },
+  {
+    "gloss": "game",
+    "id": 208
+  },
+  {
+    "gloss": "girl",
+    "id": 209
+  },
+  {
+    "gloss": "government",
+    "id": 210
+  },
+  {
+    "gloss": "hear",
+    "id": 211
+  },
+  {
+    "gloss": "here",
+    "id": 212
+  },
+  {
+    "gloss": "hope",
+    "id": 213
+  },
+  {
+    "gloss": "house",
+    "id": 214
+  },
+  {
+    "gloss": "husband",
+    "id": 215
+  },
+  {
+    "gloss": "interest",
+    "id": 216
+  },
+  {
+    "gloss": "join",
+    "id": 217
+  },
+  {
+    "gloss": "light",
+    "id": 218
+  },
+  {
+    "gloss": "live",
+    "id": 219
+  },
+  {
+    "gloss": "make",
+    "id": 220
+  },
+  {
+    "gloss": "mean",
+    "id": 221
+  },
+  {
+    "gloss": "more",
+    "id": 222
+  },
+  {
+    "gloss": "most",
+    "id": 223
+  },
+  {
+    "gloss": "music",
+    "id": 224
+  },
+  {
+    "gloss": "new",
+    "id": 225
+  },
+  {
+    "gloss": "none",
+    "id": 226
+  },
+  {
+    "gloss": "office",
+    "id": 227
+  },
+  {
+    "gloss": "order",
+    "id": 228
+  },
+  {
+    "gloss": "pants",
+    "id": 229
+  },
+  {
+    "gloss": "party",
+    "id": 230
+  },
+  {
+    "gloss": "past",
+    "id": 231
+  },
+  {
+    "gloss": "pencil",
+    "id": 232
+  },
+  {
+    "gloss": "plan",
+    "id": 233
+  },
+  {
+    "gloss": "please",
+    "id": 234
+  },
+  {
+    "gloss": "practice",
+    "id": 235
+  },
+  {
+    "gloss": "president",
+    "id": 236
+  },
+  {
+    "gloss": "restaurant",
+    "id": 237
+  },
+  {
+    "gloss": "ride",
+    "id": 238
+  },
+  {
+    "gloss": "russia",
+    "id": 239
+  },
+  {
+    "gloss": "salt",
+    "id": 240
+  },
+  {
+    "gloss": "sandwich",
+    "id": 241
+  },
+  {
+    "gloss": "sign",
+    "id": 242
+  },
+  {
+    "gloss": "since",
+    "id": 243
+  },
+  {
+    "gloss": "small",
+    "id": 244
+  },
+  {
+    "gloss": "some",
+    "id": 245
+  },
+  {
+    "gloss": "south",
+    "id": 246
+  },
+  {
+    "gloss": "student",
+    "id": 247
+  },
+  {
+    "gloss": "teach",
+    "id": 248
+  },
+  {
+    "gloss": "theory",
+    "id": 249
+  },
+  {
+    "gloss": "tomato",
+    "id": 250
+  },
+  {
+    "gloss": "train",
+    "id": 251
+  },
+  {
+    "gloss": "ugly",
+    "id": 252
+  },
+  {
+    "gloss": "war",
+    "id": 253
+  },
+  {
+    "gloss": "where",
+    "id": 254
+  },
+  {
+    "gloss": "your",
+    "id": 255
+  },
+  {
+    "gloss": "always",
+    "id": 256
+  },
+  {
+    "gloss": "animal",
+    "id": 257
+  },
+  {
+    "gloss": "argue",
+    "id": 258
+  },
+  {
+    "gloss": "baby",
+    "id": 259
+  },
+  {
+    "gloss": "back",
+    "id": 260
+  },
+  {
+    "gloss": "bake",
+    "id": 261
+  },
+  {
+    "gloss": "bath",
+    "id": 262
+  },
+  {
+    "gloss": "behind",
+    "id": 263
+  },
+  {
+    "gloss": "bring",
+    "id": 264
+  },
+  {
+    "gloss": "catch",
+    "id": 265
+  },
+  {
+    "gloss": "cereal",
+    "id": 266
+  },
+  {
+    "gloss": "champion",
+    "id": 267
+  },
+  {
+    "gloss": "cheese",
+    "id": 268
+  },
+  {
+    "gloss": "cough",
+    "id": 269
+  },
+  {
+    "gloss": "crazy",
+    "id": 270
+  },
+  {
+    "gloss": "delay",
+    "id": 271
+  },
+  {
+    "gloss": "delicious",
+    "id": 272
+  },
+  {
+    "gloss": "disappear",
+    "id": 273
+  },
+  {
+    "gloss": "divorce",
+    "id": 274
+  },
+  {
+    "gloss": "draw",
+    "id": 275
+  },
+  {
+    "gloss": "east",
+    "id": 276
+  },
+  {
+    "gloss": "easy",
+    "id": 277
+  },
+  {
+    "gloss": "egg",
+    "id": 278
+  },
+  {
+    "gloss": "environment",
+    "id": 279
+  },
+  {
+    "gloss": "father",
+    "id": 280
+  },
+  {
+    "gloss": "fault",
+    "id": 281
+  },
+  {
+    "gloss": "flower",
+    "id": 282
+  },
+  {
+    "gloss": "friendly",
+    "id": 283
+  },
+  {
+    "gloss": "glasses",
+    "id": 284
+  },
+  {
+    "gloss": "halloween",
+    "id": 285
+  },
+  {
+    "gloss": "hard",
+    "id": 286
+  },
+  {
+    "gloss": "heart",
+    "id": 287
+  },
+  {
+    "gloss": "hour",
+    "id": 288
+  },
+  {
+    "gloss": "humble",
+    "id": 289
+  },
+  {
+    "gloss": "hurry",
+    "id": 290
+  },
+  {
+    "gloss": "improve",
+    "id": 291
+  },
+  {
+    "gloss": "internet",
+    "id": 292
+  },
+  {
+    "gloss": "jump",
+    "id": 293
+  },
+  {
+    "gloss": "kill",
+    "id": 294
+  },
+  {
+    "gloss": "law",
+    "id": 295
+  },
+  {
+    "gloss": "match",
+    "id": 296
+  },
+  {
+    "gloss": "meat",
+    "id": 297
+  },
+  {
+    "gloss": "milk",
+    "id": 298
+  },
+  {
+    "gloss": "money",
+    "id": 299
+  },
+  {
+    "gloss": "month",
+    "id": 300
+  },
+  {
+    "gloss": "moon",
+    "id": 301
+  },
+  {
+    "gloss": "move",
+    "id": 302
+  },
+  {
+    "gloss": "near",
+    "id": 303
+  },
+  {
+    "gloss": "nephew",
+    "id": 304
+  },
+  {
+    "gloss": "nice",
+    "id": 305
+  },
+  {
+    "gloss": "niece",
+    "id": 306
+  },
+  {
+    "gloss": "noon",
+    "id": 307
+  },
+  {
+    "gloss": "north",
+    "id": 308
+  },
+  {
+    "gloss": "not",
+    "id": 309
+  },
+  {
+    "gloss": "nurse",
+    "id": 310
+  },
+  {
+    "gloss": "off",
+    "id": 311
+  },
+  {
+    "gloss": "ok",
+    "id": 312
+  },
+  {
+    "gloss": "patient",
+    "id": 313
+  },
+  {
+    "gloss": "pay",
+    "id": 314
+  },
+  {
+    "gloss": "perspective",
+    "id": 315
+  },
+  {
+    "gloss": "potato",
+    "id": 316
+  },
+  {
+    "gloss": "sad",
+    "id": 317
+  },
+  {
+    "gloss": "saturday",
+    "id": 318
+  },
+  {
+    "gloss": "save",
+    "id": 319
+  },
+  {
+    "gloss": "scissors",
+    "id": 320
+  },
+  {
+    "gloss": "secret",
+    "id": 321
+  },
+  {
+    "gloss": "shoes",
+    "id": 322
+  },
+  {
+    "gloss": "shop",
+    "id": 323
+  },
+  {
+    "gloss": "silly",
+    "id": 324
+  },
+  {
+    "gloss": "sister",
+    "id": 325
+  },
+  {
+    "gloss": "sleep",
+    "id": 326
+  },
+  {
+    "gloss": "sorry",
+    "id": 327
+  },
+  {
+    "gloss": "straight",
+    "id": 328
+  },
+  {
+    "gloss": "sweet",
+    "id": 329
+  },
+  {
+    "gloss": "talk",
+    "id": 330
+  },
+  {
+    "gloss": "temperature",
+    "id": 331
+  },
+  {
+    "gloss": "tent",
+    "id": 332
+  },
+  {
+    "gloss": "thank you",
+    "id": 333
+  },
+  {
+    "gloss": "think",
+    "id": 334
+  },
+  {
+    "gloss": "throw",
+    "id": 335
+  },
+  {
+    "gloss": "today",
+    "id": 336
+  },
+  {
+    "gloss": "traffic",
+    "id": 337
+  },
+  {
+    "gloss": "understand",
+    "id": 338
+  },
+  {
+    "gloss": "use",
+    "id": 339
+  },
+  {
+    "gloss": "voice",
+    "id": 340
+  },
+  {
+    "gloss": "vomit",
+    "id": 341
+  },
+  {
+    "gloss": "vote",
+    "id": 342
+  },
+  {
+    "gloss": "wednesday",
+    "id": 343
+  },
+  {
+    "gloss": "west",
+    "id": 344
+  },
+  {
+    "gloss": "wet",
+    "id": 345
+  },
+  {
+    "gloss": "when",
+    "id": 346
+  },
+  {
+    "gloss": "which",
+    "id": 347
+  },
+  {
+    "gloss": "win",
+    "id": 348
+  },
+  {
+    "gloss": "word",
+    "id": 349
+  },
+  {
+    "gloss": "afternoon",
+    "id": 350
+  },
+  {
+    "gloss": "age",
+    "id": 351
+  },
+  {
+    "gloss": "alone",
+    "id": 352
+  },
+  {
+    "gloss": "appointment",
+    "id": 353
+  },
+  {
+    "gloss": "australia",
+    "id": 354
+  },
+  {
+    "gloss": "avoid",
+    "id": 355
+  },
+  {
+    "gloss": "balloon",
+    "id": 356
+  },
+  {
+    "gloss": "basement",
+    "id": 357
+  },
+  {
+    "gloss": "bear",
+    "id": 358
+  },
+  {
+    "gloss": "believe",
+    "id": 359
+  },
+  {
+    "gloss": "better",
+    "id": 360
+  },
+  {
+    "gloss": "blind",
+    "id": 361
+  },
+  {
+    "gloss": "bored",
+    "id": 362
+  },
+  {
+    "gloss": "bowl",
+    "id": 363
+  },
+  {
+    "gloss": "box",
+    "id": 364
+  },
+  {
+    "gloss": "bracelet",
+    "id": 365
+  },
+  {
+    "gloss": "bread",
+    "id": 366
+  },
+  {
+    "gloss": "cafeteria",
+    "id": 367
+  },
+  {
+    "gloss": "car",
+    "id": 368
+  },
+  {
+    "gloss": "chicken",
+    "id": 369
+  },
+  {
+    "gloss": "child",
+    "id": 370
+  },
+  {
+    "gloss": "choose",
+    "id": 371
+  },
+  {
+    "gloss": "church",
+    "id": 372
+  },
+  {
+    "gloss": "cookie",
+    "id": 373
+  },
+  {
+    "gloss": "cup",
+    "id": 374
+  },
+  {
+    "gloss": "cut",
+    "id": 375
+  },
+  {
+    "gloss": "decorate",
+    "id": 376
+  },
+  {
+    "gloss": "deep",
+    "id": 377
+  },
+  {
+    "gloss": "deer",
+    "id": 378
+  },
+  {
+    "gloss": "dentist",
+    "id": 379
+  },
+  {
+    "gloss": "dirty",
+    "id": 380
+  },
+  {
+    "gloss": "dive",
+    "id": 381
+  },
+  {
+    "gloss": "down",
+    "id": 382
+  },
+  {
+    "gloss": "dry",
+    "id": 383
+  },
+  {
+    "gloss": "ear",
+    "id": 384
+  },
+  {
+    "gloss": "earn",
+    "id": 385
+  },
+  {
+    "gloss": "earring",
+    "id": 386
+  },
+  {
+    "gloss": "elephant",
+    "id": 387
+  },
+  {
+    "gloss": "english",
+    "id": 388
+  },
+  {
+    "gloss": "escape",
+    "id": 389
+  },
+  {
+    "gloss": "expensive",
+    "id": 390
+  },
+  {
+    "gloss": "explain",
+    "id": 391
+  },
+  {
+    "gloss": "fast",
+    "id": 392
+  },
+  {
+    "gloss": "fight",
+    "id": 393
+  },
+  {
+    "gloss": "find",
+    "id": 394
+  },
+  {
+    "gloss": "fishing",
+    "id": 395
+  },
+  {
+    "gloss": "floor",
+    "id": 396
+  },
+  {
+    "gloss": "fly",
+    "id": 397
+  },
+  {
+    "gloss": "follow",
+    "id": 398
+  },
+  {
+    "gloss": "from",
+    "id": 399
+  },
+  {
+    "gloss": "get",
+    "id": 400
+  },
+  {
+    "gloss": "happen",
+    "id": 401
+  },
+  {
+    "gloss": "hello",
+    "id": 402
+  },
+  {
+    "gloss": "hit",
+    "id": 403
+  },
+  {
+    "gloss": "hospital",
+    "id": 404
+  },
+  {
+    "gloss": "idea",
+    "id": 405
+  },
+  {
+    "gloss": "important",
+    "id": 406
+  },
+  {
+    "gloss": "investigate",
+    "id": 407
+  },
+  {
+    "gloss": "japan",
+    "id": 408
+  },
+  {
+    "gloss": "jealous",
+    "id": 409
+  },
+  {
+    "gloss": "king",
+    "id": 410
+  },
+  {
+    "gloss": "kitchen",
+    "id": 411
+  },
+  {
+    "gloss": "large",
+    "id": 412
+  },
+  {
+    "gloss": "last year",
+    "id": 413
+  },
+  {
+    "gloss": "lemon",
+    "id": 414
+  },
+  {
+    "gloss": "lettuce",
+    "id": 415
+  },
+  {
+    "gloss": "marry",
+    "id": 416
+  },
+  {
+    "gloss": "meeting",
+    "id": 417
+  },
+  {
+    "gloss": "minute",
+    "id": 418
+  },
+  {
+    "gloss": "mirror",
+    "id": 419
+  },
+  {
+    "gloss": "miss",
+    "id": 420
+  },
+  {
+    "gloss": "monkey",
+    "id": 421
+  },
+  {
+    "gloss": "morning",
+    "id": 422
+  },
+  {
+    "gloss": "motorcycle",
+    "id": 423
+  },
+  {
+    "gloss": "necklace",
+    "id": 424
+  },
+  {
+    "gloss": "never",
+    "id": 425
+  },
+  {
+    "gloss": "newspaper",
+    "id": 426
+  },
+  {
+    "gloss": "night",
+    "id": 427
+  },
+  {
+    "gloss": "onion",
+    "id": 428
+  },
+  {
+    "gloss": "people",
+    "id": 429
+  },
+  {
+    "gloss": "pepper",
+    "id": 430
+  },
+  {
+    "gloss": "phone",
+    "id": 431
+  },
+  {
+    "gloss": "picture",
+    "id": 432
+  },
+  {
+    "gloss": "plus",
+    "id": 433
+  },
+  {
+    "gloss": "point",
+    "id": 434
+  },
+  {
+    "gloss": "poor",
+    "id": 435
+  },
+  {
+    "gloss": "possible",
+    "id": 436
+  },
+  {
+    "gloss": "quiet",
+    "id": 437
+  },
+  {
+    "gloss": "rain",
+    "id": 438
+  },
+  {
+    "gloss": "ready",
+    "id": 439
+  },
+  {
+    "gloss": "research",
+    "id": 440
+  },
+  {
+    "gloss": "scared",
+    "id": 441
+  },
+  {
+    "gloss": "science",
+    "id": 442
+  },
+  {
+    "gloss": "score",
+    "id": 443
+  },
+  {
+    "gloss": "sentence",
+    "id": 444
+  },
+  {
+    "gloss": "shape",
+    "id": 445
+  },
+  {
+    "gloss": "sit",
+    "id": 446
+  },
+  {
+    "gloss": "slow",
+    "id": 447
+  },
+  {
+    "gloss": "snake",
+    "id": 448
+  },
+  {
+    "gloss": "soap",
+    "id": 449
+  },
+  {
+    "gloss": "soda",
+    "id": 450
+  },
+  {
+    "gloss": "speech",
+    "id": 451
+  },
+  {
+    "gloss": "star",
+    "id": 452
+  },
+  {
+    "gloss": "stink",
+    "id": 453
+  },
+  {
+    "gloss": "struggle",
+    "id": 454
+  },
+  {
+    "gloss": "stubborn",
+    "id": 455
+  },
+  {
+    "gloss": "sunset",
+    "id": 456
+  },
+  {
+    "gloss": "surgery",
+    "id": 457
+  },
+  {
+    "gloss": "there",
+    "id": 458
+  },
+  {
+    "gloss": "tiger",
+    "id": 459
+  },
+  {
+    "gloss": "toast",
+    "id": 460
+  },
+  {
+    "gloss": "toilet",
+    "id": 461
+  },
+  {
+    "gloss": "tomorrow",
+    "id": 462
+  },
+  {
+    "gloss": "town",
+    "id": 463
+  },
+  {
+    "gloss": "transfer",
+    "id": 464
+  },
+  {
+    "gloss": "tree",
+    "id": 465
+  },
+  {
+    "gloss": "truck",
+    "id": 466
+  },
+  {
+    "gloss": "uncle",
+    "id": 467
+  },
+  {
+    "gloss": "vacation",
+    "id": 468
+  },
+  {
+    "gloss": "weather",
+    "id": 469
+  },
+  {
+    "gloss": "weekend",
+    "id": 470
+  },
+  {
+    "gloss": "accept",
+    "id": 471
+  },
+  {
+    "gloss": "adult",
+    "id": 472
+  },
+  {
+    "gloss": "after",
+    "id": 473
+  },
+  {
+    "gloss": "ago",
+    "id": 474
+  },
+  {
+    "gloss": "allow",
+    "id": 475
+  },
+  {
+    "gloss": "america",
+    "id": 476
+  },
+  {
+    "gloss": "angel",
+    "id": 477
+  },
+  {
+    "gloss": "answer",
+    "id": 478
+  },
+  {
+    "gloss": "any",
+    "id": 479
+  },
+  {
+    "gloss": "area",
+    "id": 480
+  },
+  {
+    "gloss": "art",
+    "id": 481
+  },
+  {
+    "gloss": "asl",
+    "id": 482
+  },
+  {
+    "gloss": "aunt",
+    "id": 483
+  },
+  {
+    "gloss": "awful",
+    "id": 484
+  },
+  {
+    "gloss": "awkward",
+    "id": 485
+  },
+  {
+    "gloss": "bacon",
+    "id": 486
+  },
+  {
+    "gloss": "bark",
+    "id": 487
+  },
+  {
+    "gloss": "bedroom",
+    "id": 488
+  },
+  {
+    "gloss": "beer",
+    "id": 489
+  },
+  {
+    "gloss": "belt",
+    "id": 490
+  },
+  {
+    "gloss": "big",
+    "id": 491
+  },
+  {
+    "gloss": "bitter",
+    "id": 492
+  },
+  {
+    "gloss": "both",
+    "id": 493
+  },
+  {
+    "gloss": "cake",
+    "id": 494
+  },
+  {
+    "gloss": "california",
+    "id": 495
+  },
+  {
+    "gloss": "canada",
+    "id": 496
+  },
+  {
+    "gloss": "carrot",
+    "id": 497
+  },
+  {
+    "gloss": "cause",
+    "id": 498
+  },
+  {
+    "gloss": "challenge",
+    "id": 499
+  },
+  {
+    "gloss": "cheap",
+    "id": 500
+  },
+  {
+    "gloss": "chocolate",
+    "id": 501
+  },
+  {
+    "gloss": "clean",
+    "id": 502
+  },
+  {
+    "gloss": "cloud",
+    "id": 503
+  },
+  {
+    "gloss": "compare",
+    "id": 504
+  },
+  {
+    "gloss": "complex",
+    "id": 505
+  },
+  {
+    "gloss": "contact",
+    "id": 506
+  },
+  {
+    "gloss": "continue",
+    "id": 507
+  },
+  {
+    "gloss": "corner",
+    "id": 508
+  },
+  {
+    "gloss": "correct",
+    "id": 509
+  },
+  {
+    "gloss": "curse",
+    "id": 510
+  },
+  {
+    "gloss": "dead",
+    "id": 511
+  },
+  {
+    "gloss": "demand",
+    "id": 512
+  },
+  {
+    "gloss": "depend",
+    "id": 513
+  },
+  {
+    "gloss": "desert",
+    "id": 514
+  },
+  {
+    "gloss": "desk",
+    "id": 515
+  },
+  {
+    "gloss": "develop",
+    "id": 516
+  },
+  {
+    "gloss": "dictionary",
+    "id": 517
+  },
+  {
+    "gloss": "doll",
+    "id": 518
+  },
+  {
+    "gloss": "duty",
+    "id": 519
+  },
+  {
+    "gloss": "easter",
+    "id": 520
+  },
+  {
+    "gloss": "egypt",
+    "id": 521
+  },
+  {
+    "gloss": "elevator",
+    "id": 522
+  },
+  {
+    "gloss": "email",
+    "id": 523
+  },
+  {
+    "gloss": "end",
+    "id": 524
+  },
+  {
+    "gloss": "enter",
+    "id": 525
+  },
+  {
+    "gloss": "europe",
+    "id": 526
+  },
+  {
+    "gloss": "event",
+    "id": 527
+  },
+  {
+    "gloss": "exchange",
+    "id": 528
+  },
+  {
+    "gloss": "experience",
+    "id": 529
+  },
+  {
+    "gloss": "face",
+    "id": 530
+  },
+  {
+    "gloss": "fail",
+    "id": 531
+  },
+  {
+    "gloss": "feed",
+    "id": 532
+  },
+  {
+    "gloss": "few",
+    "id": 533
+  },
+  {
+    "gloss": "flag",
+    "id": 534
+  },
+  {
+    "gloss": "food",
+    "id": 535
+  },
+  {
+    "gloss": "for",
+    "id": 536
+  },
+  {
+    "gloss": "form",
+    "id": 537
+  },
+  {
+    "gloss": "freeze",
+    "id": 538
+  },
+  {
+    "gloss": "friday",
+    "id": 539
+  },
+  {
+    "gloss": "front",
+    "id": 540
+  },
+  {
+    "gloss": "giraffe",
+    "id": 541
+  },
+  {
+    "gloss": "god",
+    "id": 542
+  },
+  {
+    "gloss": "grammar",
+    "id": 543
+  },
+  {
+    "gloss": "grandfather",
+    "id": 544
+  },
+  {
+    "gloss": "great",
+    "id": 545
+  },
+  {
+    "gloss": "greece",
+    "id": 546
+  },
+  {
+    "gloss": "guess",
+    "id": 547
+  },
+  {
+    "gloss": "guitar",
+    "id": 548
+  },
+  {
+    "gloss": "hammer",
+    "id": 549
+  },
+  {
+    "gloss": "helicopter",
+    "id": 550
+  },
+  {
+    "gloss": "high",
+    "id": 551
+  },
+  {
+    "gloss": "history",
+    "id": 552
+  },
+  {
+    "gloss": "hungry",
+    "id": 553
+  },
+  {
+    "gloss": "hurt",
+    "id": 554
+  },
+  {
+    "gloss": "introduce",
+    "id": 555
+  },
+  {
+    "gloss": "invest",
+    "id": 556
+  },
+  {
+    "gloss": "lazy",
+    "id": 557
+  },
+  {
+    "gloss": "library",
+    "id": 558
+  },
+  {
+    "gloss": "lie",
+    "id": 559
+  },
+  {
+    "gloss": "lobster",
+    "id": 560
+  },
+  {
+    "gloss": "love",
+    "id": 561
+  },
+  {
+    "gloss": "lucky",
+    "id": 562
+  },
+  {
+    "gloss": "magazine",
+    "id": 563
+  },
+  {
+    "gloss": "measure",
+    "id": 564
+  },
+  {
+    "gloss": "microwave",
+    "id": 565
+  },
+  {
+    "gloss": "my",
+    "id": 566
+  },
+  {
+    "gloss": "neighbor",
+    "id": 567
+  },
+  {
+    "gloss": "number",
+    "id": 568
+  },
+  {
+    "gloss": "one",
+    "id": 569
+  },
+  {
+    "gloss": "outside",
+    "id": 570
+  },
+  {
+    "gloss": "peach",
+    "id": 571
+  },
+  {
+    "gloss": "pig",
+    "id": 572
+  },
+  {
+    "gloss": "polite",
+    "id": 573
+  },
+  {
+    "gloss": "postpone",
+    "id": 574
+  },
+  {
+    "gloss": "power",
+    "id": 575
+  },
+  {
+    "gloss": "present",
+    "id": 576
+  },
+  {
+    "gloss": "price",
+    "id": 577
+  },
+  {
+    "gloss": "prison",
+    "id": 578
+  },
+  {
+    "gloss": "push",
+    "id": 579
+  },
+  {
+    "gloss": "raccoon",
+    "id": 580
+  },
+  {
+    "gloss": "really",
+    "id": 581
+  },
+  {
+    "gloss": "reason",
+    "id": 582
+  },
+  {
+    "gloss": "religion",
+    "id": 583
+  },
+  {
+    "gloss": "respect",
+    "id": 584
+  },
+  {
+    "gloss": "rule",
+    "id": 585
+  },
+  {
+    "gloss": "salad",
+    "id": 586
+  },
+  {
+    "gloss": "schedule",
+    "id": 587
+  },
+  {
+    "gloss": "sell",
+    "id": 588
+  },
+  {
+    "gloss": "serious",
+    "id": 589
+  },
+  {
+    "gloss": "shower",
+    "id": 590
+  },
+  {
+    "gloss": "single",
+    "id": 591
+  },
+  {
+    "gloss": "smart",
+    "id": 592
+  },
+  {
+    "gloss": "smile",
+    "id": 593
+  },
+  {
+    "gloss": "soft",
+    "id": 594
+  },
+  {
+    "gloss": "sound",
+    "id": 595
+  },
+  {
+    "gloss": "soup",
+    "id": 596
+  },
+  {
+    "gloss": "spain",
+    "id": 597
+  },
+  {
+    "gloss": "spray",
+    "id": 598
+  },
+  {
+    "gloss": "squirrel",
+    "id": 599
+  },
+  {
+    "gloss": "stomach",
+    "id": 600
+  },
+  {
+    "gloss": "story",
+    "id": 601
+  },
+  {
+    "gloss": "strange",
+    "id": 602
+  },
+  {
+    "gloss": "street",
+    "id": 603
+  },
+  {
+    "gloss": "stress",
+    "id": 604
+  },
+  {
+    "gloss": "strict",
+    "id": 605
+  },
+  {
+    "gloss": "strong",
+    "id": 606
+  },
+  {
+    "gloss": "sugar",
+    "id": 607
+  },
+  {
+    "gloss": "summer",
+    "id": 608
+  },
+  {
+    "gloss": "suspect",
+    "id": 609
+  },
+  {
+    "gloss": "sweetheart",
+    "id": 610
+  },
+  {
+    "gloss": "tease",
+    "id": 611
+  },
+  {
+    "gloss": "that",
+    "id": 612
+  },
+  {
+    "gloss": "themselves",
+    "id": 613
+  },
+  {
+    "gloss": "therapy",
+    "id": 614
+  },
+  {
+    "gloss": "thirsty",
+    "id": 615
+  },
+  {
+    "gloss": "ticket",
+    "id": 616
+  },
+  {
+    "gloss": "top",
+    "id": 617
+  },
+  {
+    "gloss": "tuesday",
+    "id": 618
+  },
+  {
+    "gloss": "turkey",
+    "id": 619
+  },
+  {
+    "gloss": "university",
+    "id": 620
+  },
+  {
+    "gloss": "until",
+    "id": 621
+  },
+  {
+    "gloss": "watch",
+    "id": 622
+  },
+  {
+    "gloss": "weak",
+    "id": 623
+  },
+  {
+    "gloss": "wedding",
+    "id": 624
+  },
+  {
+    "gloss": "will",
+    "id": 625
+  },
+  {
+    "gloss": "wind",
+    "id": 626
+  },
+  {
+    "gloss": "world",
+    "id": 627
+  },
+  {
+    "gloss": "worry",
+    "id": 628
+  },
+  {
+    "gloss": "wow",
+    "id": 629
+  },
+  {
+    "gloss": "young",
+    "id": 630
+  },
+  {
+    "gloss": "add",
+    "id": 631
+  },
+  {
+    "gloss": "airplane",
+    "id": 632
+  },
+  {
+    "gloss": "already",
+    "id": 633
+  },
+  {
+    "gloss": "also",
+    "id": 634
+  },
+  {
+    "gloss": "analyze",
+    "id": 635
+  },
+  {
+    "gloss": "and",
+    "id": 636
+  },
+  {
+    "gloss": "angry",
+    "id": 637
+  },
+  {
+    "gloss": "appear",
+    "id": 638
+  },
+  {
+    "gloss": "arm",
+    "id": 639
+  },
+  {
+    "gloss": "army",
+    "id": 640
+  },
+  {
+    "gloss": "arrest",
+    "id": 641
+  },
+  {
+    "gloss": "asia",
+    "id": 642
+  },
+  {
+    "gloss": "ask",
+    "id": 643
+  },
+  {
+    "gloss": "attitude",
+    "id": 644
+  },
+  {
+    "gloss": "attract",
+    "id": 645
+  },
+  {
+    "gloss": "bald",
+    "id": 646
+  },
+  {
+    "gloss": "barely",
+    "id": 647
+  },
+  {
+    "gloss": "baseball",
+    "id": 648
+  },
+  {
+    "gloss": "beg",
+    "id": 649
+  },
+  {
+    "gloss": "benefit",
+    "id": 650
+  },
+  {
+    "gloss": "bite",
+    "id": 651
+  },
+  {
+    "gloss": "blame",
+    "id": 652
+  },
+  {
+    "gloss": "boat",
+    "id": 653
+  },
+  {
+    "gloss": "body",
+    "id": 654
+  },
+  {
+    "gloss": "borrow",
+    "id": 655
+  },
+  {
+    "gloss": "boss",
+    "id": 656
+  },
+  {
+    "gloss": "bother",
+    "id": 657
+  },
+  {
+    "gloss": "bottle",
+    "id": 658
+  },
+  {
+    "gloss": "bottom",
+    "id": 659
+  },
+  {
+    "gloss": "brag",
+    "id": 660
+  },
+  {
+    "gloss": "build",
+    "id": 661
+  },
+  {
+    "gloss": "bus",
+    "id": 662
+  },
+  {
+    "gloss": "butter",
+    "id": 663
+  },
+  {
+    "gloss": "calm",
+    "id": 664
+  },
+  {
+    "gloss": "cancel",
+    "id": 665
+  },
+  {
+    "gloss": "candle",
+    "id": 666
+  },
+  {
+    "gloss": "cards",
+    "id": 667
+  },
+  {
+    "gloss": "choice",
+    "id": 668
+  },
+  {
+    "gloss": "comb",
+    "id": 669
+  },
+  {
+    "gloss": "comfortable",
+    "id": 670
+  },
+  {
+    "gloss": "conflict",
+    "id": 671
+  },
+  {
+    "gloss": "cover",
+    "id": 672
+  },
+  {
+    "gloss": "deodorant",
+    "id": 673
+  },
+  {
+    "gloss": "dessert",
+    "id": 674
+  },
+  {
+    "gloss": "destroy",
+    "id": 675
+  },
+  {
+    "gloss": "diamond",
+    "id": 676
+  },
+  {
+    "gloss": "dollar",
+    "id": 677
+  },
+  {
+    "gloss": "drawer",
+    "id": 678
+  },
+  {
+    "gloss": "dream",
+    "id": 679
+  },
+  {
+    "gloss": "drunk",
+    "id": 680
+  },
+  {
+    "gloss": "duck",
+    "id": 681
+  },
+  {
+    "gloss": "during",
+    "id": 682
+  },
+  {
+    "gloss": "eagle",
+    "id": 683
+  },
+  {
+    "gloss": "early",
+    "id": 684
+  },
+  {
+    "gloss": "equal",
+    "id": 685
+  },
+  {
+    "gloss": "every",
+    "id": 686
+  },
+  {
+    "gloss": "excited",
+    "id": 687
+  },
+  {
+    "gloss": "exercise",
+    "id": 688
+  },
+  {
+    "gloss": "experiment",
+    "id": 689
+  },
+  {
+    "gloss": "expert",
+    "id": 690
+  },
+  {
+    "gloss": "fact",
+    "id": 691
+  },
+  {
+    "gloss": "fear",
+    "id": 692
+  },
+  {
+    "gloss": "feedback",
+    "id": 693
+  },
+  {
+    "gloss": "fold",
+    "id": 694
+  },
+  {
+    "gloss": "forest",
+    "id": 695
+  },
+  {
+    "gloss": "france",
+    "id": 696
+  },
+  {
+    "gloss": "frog",
+    "id": 697
+  },
+  {
+    "gloss": "funny",
+    "id": 698
+  },
+  {
+    "gloss": "garage",
+    "id": 699
+  },
+  {
+    "gloss": "goal",
+    "id": 700
+  },
+  {
+    "gloss": "golf",
+    "id": 701
+  },
+  {
+    "gloss": "gone",
+    "id": 702
+  },
+  {
+    "gloss": "gossip",
+    "id": 703
+  },
+  {
+    "gloss": "grandmother",
+    "id": 704
+  },
+  {
+    "gloss": "grapes",
+    "id": 705
+  },
+  {
+    "gloss": "group",
+    "id": 706
+  },
+  {
+    "gloss": "guilty",
+    "id": 707
+  },
+  {
+    "gloss": "hamburger",
+    "id": 708
+  },
+  {
+    "gloss": "hate",
+    "id": 709
+  },
+  {
+    "gloss": "head",
+    "id": 710
+  },
+  {
+    "gloss": "her",
+    "id": 711
+  },
+  {
+    "gloss": "horse",
+    "id": 712
+  },
+  {
+    "gloss": "ignore",
+    "id": 713
+  },
+  {
+    "gloss": "impossible",
+    "id": 714
+  },
+  {
+    "gloss": "in",
+    "id": 715
+  },
+  {
+    "gloss": "independent",
+    "id": 716
+  },
+  {
+    "gloss": "inside",
+    "id": 717
+  },
+  {
+    "gloss": "insurance",
+    "id": 718
+  },
+  {
+    "gloss": "island",
+    "id": 719
+  },
+  {
+    "gloss": "lecture",
+    "id": 720
+  },
+  {
+    "gloss": "lesson",
+    "id": 721
+  },
+  {
+    "gloss": "limit",
+    "id": 722
+  },
+  {
+    "gloss": "lion",
+    "id": 723
+  },
+  {
+    "gloss": "listen",
+    "id": 724
+  },
+  {
+    "gloss": "march",
+    "id": 725
+  },
+  {
+    "gloss": "math",
+    "id": 726
+  },
+  {
+    "gloss": "maybe",
+    "id": 727
+  },
+  {
+    "gloss": "mechanic",
+    "id": 728
+  },
+  {
+    "gloss": "mom",
+    "id": 729
+  },
+  {
+    "gloss": "mouse",
+    "id": 730
+  },
+  {
+    "gloss": "much",
+    "id": 731
+  },
+  {
+    "gloss": "muscle",
+    "id": 732
+  },
+  {
+    "gloss": "museum",
+    "id": 733
+  },
+  {
+    "gloss": "must",
+    "id": 734
+  },
+  {
+    "gloss": "mustache",
+    "id": 735
+  },
+  {
+    "gloss": "negative",
+    "id": 736
+  },
+  {
+    "gloss": "nervous",
+    "id": 737
+  },
+  {
+    "gloss": "neutral",
+    "id": 738
+  },
+  {
+    "gloss": "nose",
+    "id": 739
+  },
+  {
+    "gloss": "often",
+    "id": 740
+  },
+  {
+    "gloss": "operate",
+    "id": 741
+  },
+  {
+    "gloss": "opinion",
+    "id": 742
+  },
+  {
+    "gloss": "other",
+    "id": 743
+  },
+  {
+    "gloss": "pass",
+    "id": 744
+  },
+  {
+    "gloss": "pillow",
+    "id": 745
+  },
+  {
+    "gloss": "prepare",
+    "id": 746
+  },
+  {
+    "gloss": "pretty",
+    "id": 747
+  },
+  {
+    "gloss": "priest",
+    "id": 748
+  },
+  {
+    "gloss": "program",
+    "id": 749
+  },
+  {
+    "gloss": "promise",
+    "id": 750
+  },
+  {
+    "gloss": "put",
+    "id": 751
+  },
+  {
+    "gloss": "queen",
+    "id": 752
+  },
+  {
+    "gloss": "quit",
+    "id": 753
+  },
+  {
+    "gloss": "radio",
+    "id": 754
+  },
+  {
+    "gloss": "rat",
+    "id": 755
+  },
+  {
+    "gloss": "reject",
+    "id": 756
+  },
+  {
+    "gloss": "require",
+    "id": 757
+  },
+  {
+    "gloss": "rest",
+    "id": 758
+  },
+  {
+    "gloss": "retire",
+    "id": 759
+  },
+  {
+    "gloss": "rise",
+    "id": 760
+  },
+  {
+    "gloss": "river",
+    "id": 761
+  },
+  {
+    "gloss": "rough",
+    "id": 762
+  },
+  {
+    "gloss": "see",
+    "id": 763
+  },
+  {
+    "gloss": "seem",
+    "id": 764
+  },
+  {
+    "gloss": "send",
+    "id": 765
+  },
+  {
+    "gloss": "sew",
+    "id": 766
+  },
+  {
+    "gloss": "sheep",
+    "id": 767
+  },
+  {
+    "gloss": "shine",
+    "id": 768
+  },
+  {
+    "gloss": "shock",
+    "id": 769
+  },
+  {
+    "gloss": "should",
+    "id": 770
+  },
+  {
+    "gloss": "silent",
+    "id": 771
+  },
+  {
+    "gloss": "skinny",
+    "id": 772
+  },
+  {
+    "gloss": "skirt",
+    "id": 773
+  },
+  {
+    "gloss": "sky",
+    "id": 774
+  },
+  {
+    "gloss": "sour",
+    "id": 775
+  },
+  {
+    "gloss": "special",
+    "id": 776
+  },
+  {
+    "gloss": "spirit",
+    "id": 777
+  },
+  {
+    "gloss": "staff",
+    "id": 778
+  },
+  {
+    "gloss": "stand",
+    "id": 779
+  },
+  {
+    "gloss": "steal",
+    "id": 780
+  },
+  {
+    "gloss": "stop",
+    "id": 781
+  },
+  {
+    "gloss": "stupid",
+    "id": 782
+  },
+  {
+    "gloss": "summon",
+    "id": 783
+  },
+  {
+    "gloss": "sunrise",
+    "id": 784
+  },
+  {
+    "gloss": "swallow",
+    "id": 785
+  },
+  {
+    "gloss": "television",
+    "id": 786
+  },
+  {
+    "gloss": "to",
+    "id": 787
+  },
+  {
+    "gloss": "together",
+    "id": 788
+  },
+  {
+    "gloss": "translate",
+    "id": 789
+  },
+  {
+    "gloss": "triangle",
+    "id": 790
+  },
+  {
+    "gloss": "turtle",
+    "id": 791
+  },
+  {
+    "gloss": "underwear",
+    "id": 792
+  },
+  {
+    "gloss": "up",
+    "id": 793
+  },
+  {
+    "gloss": "upset",
+    "id": 794
+  },
+  {
+    "gloss": "violin",
+    "id": 795
+  },
+  {
+    "gloss": "volunteer",
+    "id": 796
+  },
+  {
+    "gloss": "warm",
+    "id": 797
+  },
+  {
+    "gloss": "warn",
+    "id": 798
+  },
+  {
+    "gloss": "wash",
+    "id": 799
+  },
+  {
+    "gloss": "wine",
+    "id": 800
+  },
+  {
+    "gloss": "witness",
+    "id": 801
+  },
+  {
+    "gloss": "wood",
+    "id": 802
+  },
+  {
+    "gloss": "zero",
+    "id": 803
+  },
+  {
+    "gloss": "across",
+    "id": 804
+  },
+  {
+    "gloss": "actor",
+    "id": 805
+  },
+  {
+    "gloss": "agree",
+    "id": 806
+  },
+  {
+    "gloss": "alarm",
+    "id": 807
+  },
+  {
+    "gloss": "allergy",
+    "id": 808
+  },
+  {
+    "gloss": "almost",
+    "id": 809
+  },
+  {
+    "gloss": "announce",
+    "id": 810
+  },
+  {
+    "gloss": "apartment",
+    "id": 811
+  },
+  {
+    "gloss": "attention",
+    "id": 812
+  },
+  {
+    "gloss": "audience",
+    "id": 813
+  },
+  {
+    "gloss": "august",
+    "id": 814
+  },
+  {
+    "gloss": "autumn",
+    "id": 815
+  },
+  {
+    "gloss": "away",
+    "id": 816
+  },
+  {
+    "gloss": "beautiful",
+    "id": 817
+  },
+  {
+    "gloss": "become",
+    "id": 818
+  },
+  {
+    "gloss": "below",
+    "id": 819
+  },
+  {
+    "gloss": "best",
+    "id": 820
+  },
+  {
+    "gloss": "bet",
+    "id": 821
+  },
+  {
+    "gloss": "bicycle",
+    "id": 822
+  },
+  {
+    "gloss": "biology",
+    "id": 823
+  },
+  {
+    "gloss": "boyfriend",
+    "id": 824
+  },
+  {
+    "gloss": "break",
+    "id": 825
+  },
+  {
+    "gloss": "bridge",
+    "id": 826
+  },
+  {
+    "gloss": "brush",
+    "id": 827
+  },
+  {
+    "gloss": "building",
+    "id": 828
+  },
+  {
+    "gloss": "busy",
+    "id": 829
+  },
+  {
+    "gloss": "camera",
+    "id": 830
+  },
+  {
+    "gloss": "camp",
+    "id": 831
+  },
+  {
+    "gloss": "caption",
+    "id": 832
+  },
+  {
+    "gloss": "care",
+    "id": 833
+  },
+  {
+    "gloss": "carry",
+    "id": 834
+  },
+  {
+    "gloss": "celebrate",
+    "id": 835
+  },
+  {
+    "gloss": "certificate",
+    "id": 836
+  },
+  {
+    "gloss": "chain",
+    "id": 837
+  },
+  {
+    "gloss": "chance",
+    "id": 838
+  },
+  {
+    "gloss": "character",
+    "id": 839
+  },
+  {
+    "gloss": "chase",
+    "id": 840
+  },
+  {
+    "gloss": "classroom",
+    "id": 841
+  },
+  {
+    "gloss": "clear",
+    "id": 842
+  },
+  {
+    "gloss": "climb",
+    "id": 843
+  },
+  {
+    "gloss": "command",
+    "id": 844
+  },
+  {
+    "gloss": "community",
+    "id": 845
+  },
+  {
+    "gloss": "complain",
+    "id": 846
+  },
+  {
+    "gloss": "compromise",
+    "id": 847
+  },
+  {
+    "gloss": "contribute",
+    "id": 848
+  },
+  {
+    "gloss": "cop",
+    "id": 849
+  },
+  {
+    "gloss": "cost",
+    "id": 850
+  },
+  {
+    "gloss": "couch",
+    "id": 851
+  },
+  {
+    "gloss": "cracker",
+    "id": 852
+  },
+  {
+    "gloss": "curious",
+    "id": 853
+  },
+  {
+    "gloss": "curriculum",
+    "id": 854
+  },
+  {
+    "gloss": "dad",
+    "id": 855
+  },
+  {
+    "gloss": "deny",
+    "id": 856
+  },
+  {
+    "gloss": "describe",
+    "id": 857
+  },
+  {
+    "gloss": "diaper",
+    "id": 858
+  },
+  {
+    "gloss": "diarrhea",
+    "id": 859
+  },
+  {
+    "gloss": "disagree",
+    "id": 860
+  },
+  {
+    "gloss": "dissolve",
+    "id": 861
+  },
+  {
+    "gloss": "divide",
+    "id": 862
+  },
+  {
+    "gloss": "dolphin",
+    "id": 863
+  },
+  {
+    "gloss": "double",
+    "id": 864
+  },
+  {
+    "gloss": "doubt",
+    "id": 865
+  },
+  {
+    "gloss": "dumb",
+    "id": 866
+  },
+  {
+    "gloss": "earth",
+    "id": 867
+  },
+  {
+    "gloss": "earthquake",
+    "id": 868
+  },
+  {
+    "gloss": "eight",
+    "id": 869
+  },
+  {
+    "gloss": "embarrass",
+    "id": 870
+  },
+  {
+    "gloss": "emotion",
+    "id": 871
+  },
+  {
+    "gloss": "encourage",
+    "id": 872
+  },
+  {
+    "gloss": "energy",
+    "id": 873
+  },
+  {
+    "gloss": "enough",
+    "id": 874
+  },
+  {
+    "gloss": "evaluate",
+    "id": 875
+  },
+  {
+    "gloss": "evidence",
+    "id": 876
+  },
+  {
+    "gloss": "exact",
+    "id": 877
+  },
+  {
+    "gloss": "exaggerate",
+    "id": 878
+  },
+  {
+    "gloss": "expect",
+    "id": 879
+  },
+  {
+    "gloss": "fancy",
+    "id": 880
+  },
+  {
+    "gloss": "favorite",
+    "id": 881
+  },
+  {
+    "gloss": "finally",
+    "id": 882
+  },
+  {
+    "gloss": "fox",
+    "id": 883
+  },
+  {
+    "gloss": "french",
+    "id": 884
+  },
+  {
+    "gloss": "fruit",
+    "id": 885
+  },
+  {
+    "gloss": "function",
+    "id": 886
+  },
+  {
+    "gloss": "gather",
+    "id": 887
+  },
+  {
+    "gloss": "germany",
+    "id": 888
+  },
+  {
+    "gloss": "gloves",
+    "id": 889
+  },
+  {
+    "gloss": "goat",
+    "id": 890
+  },
+  {
+    "gloss": "goodbye",
+    "id": 891
+  },
+  {
+    "gloss": "grow",
+    "id": 892
+  },
+  {
+    "gloss": "gum",
+    "id": 893
+  },
+  {
+    "gloss": "half",
+    "id": 894
+  },
+  {
+    "gloss": "hawaii",
+    "id": 895
+  },
+  {
+    "gloss": "herself",
+    "id": 896
+  },
+  {
+    "gloss": "highway",
+    "id": 897
+  },
+  {
+    "gloss": "homework",
+    "id": 898
+  },
+  {
+    "gloss": "honor",
+    "id": 899
+  },
+  {
+    "gloss": "ice cream",
+    "id": 900
+  },
+  {
+    "gloss": "if",
+    "id": 901
+  },
+  {
+    "gloss": "increase",
+    "id": 902
+  },
+  {
+    "gloss": "india",
+    "id": 903
+  },
+  {
+    "gloss": "information",
+    "id": 904
+  },
+  {
+    "gloss": "interpret",
+    "id": 905
+  },
+  {
+    "gloss": "interview",
+    "id": 906
+  },
+  {
+    "gloss": "invite",
+    "id": 907
+  },
+  {
+    "gloss": "israel",
+    "id": 908
+  },
+  {
+    "gloss": "jesus",
+    "id": 909
+  },
+  {
+    "gloss": "keep",
+    "id": 910
+  },
+  {
+    "gloss": "keyboard",
+    "id": 911
+  },
+  {
+    "gloss": "land",
+    "id": 912
+  },
+  {
+    "gloss": "lawyer",
+    "id": 913
+  },
+  {
+    "gloss": "lead",
+    "id": 914
+  },
+  {
+    "gloss": "lesbian",
+    "id": 915
+  },
+  {
+    "gloss": "line",
+    "id": 916
+  },
+  {
+    "gloss": "lock",
+    "id": 917
+  },
+  {
+    "gloss": "loud",
+    "id": 918
+  },
+  {
+    "gloss": "lousy",
+    "id": 919
+  },
+  {
+    "gloss": "lunch",
+    "id": 920
+  },
+  {
+    "gloss": "machine",
+    "id": 921
+  },
+  {
+    "gloss": "mad",
+    "id": 922
+  },
+  {
+    "gloss": "memorize",
+    "id": 923
+  },
+  {
+    "gloss": "minus",
+    "id": 924
+  },
+  {
+    "gloss": "monday",
+    "id": 925
+  },
+  {
+    "gloss": "mountain",
+    "id": 926
+  },
+  {
+    "gloss": "mouth",
+    "id": 927
+  },
+  {
+    "gloss": "mushroom",
+    "id": 928
+  },
+  {
+    "gloss": "napkin",
+    "id": 929
+  },
+  {
+    "gloss": "neck",
+    "id": 930
+  },
+  {
+    "gloss": "next",
+    "id": 931
+  },
+  {
+    "gloss": "ocean",
+    "id": 932
+  },
+  {
+    "gloss": "open",
+    "id": 933
+  },
+  {
+    "gloss": "overwhelm",
+    "id": 934
+  },
+  {
+    "gloss": "owe",
+    "id": 935
+  },
+  {
+    "gloss": "page",
+    "id": 936
+  },
+  {
+    "gloss": "pain",
+    "id": 937
+  },
+  {
+    "gloss": "parade",
+    "id": 938
+  },
+  {
+    "gloss": "parents",
+    "id": 939
+  },
+  {
+    "gloss": "perfect",
+    "id": 940
+  },
+  {
+    "gloss": "period",
+    "id": 941
+  },
+  {
+    "gloss": "philosophy",
+    "id": 942
+  },
+  {
+    "gloss": "photographer",
+    "id": 943
+  },
+  {
+    "gloss": "place",
+    "id": 944
+  },
+  {
+    "gloss": "policy",
+    "id": 945
+  },
+  {
+    "gloss": "popular",
+    "id": 946
+  },
+  {
+    "gloss": "pray",
+    "id": 947
+  },
+  {
+    "gloss": "predict",
+    "id": 948
+  },
+  {
+    "gloss": "presentation",
+    "id": 949
+  },
+  {
+    "gloss": "print",
+    "id": 950
+  },
+  {
+    "gloss": "printer",
+    "id": 951
+  },
+  {
+    "gloss": "private",
+    "id": 952
+  },
+  {
+    "gloss": "procrastinate",
+    "id": 953
+  },
+  {
+    "gloss": "project",
+    "id": 954
+  },
+  {
+    "gloss": "protect",
+    "id": 955
+  },
+  {
+    "gloss": "prove",
+    "id": 956
+  },
+  {
+    "gloss": "provide",
+    "id": 957
+  },
+  {
+    "gloss": "psychology",
+    "id": 958
+  },
+  {
+    "gloss": "punish",
+    "id": 959
+  },
+  {
+    "gloss": "puzzled",
+    "id": 960
+  },
+  {
+    "gloss": "question",
+    "id": 961
+  },
+  {
+    "gloss": "quick",
+    "id": 962
+  },
+  {
+    "gloss": "rainbow",
+    "id": 963
+  },
+  {
+    "gloss": "rake",
+    "id": 964
+  },
+  {
+    "gloss": "rehearse",
+    "id": 965
+  },
+  {
+    "gloss": "remove",
+    "id": 966
+  },
+  {
+    "gloss": "revenge",
+    "id": 967
+  },
+  {
+    "gloss": "review",
+    "id": 968
+  },
+  {
+    "gloss": "rich",
+    "id": 969
+  },
+  {
+    "gloss": "roof",
+    "id": 970
+  },
+  {
+    "gloss": "rooster",
+    "id": 971
+  },
+  {
+    "gloss": "rude",
+    "id": 972
+  },
+  {
+    "gloss": "say",
+    "id": 973
+  },
+  {
+    "gloss": "scientist",
+    "id": 974
+  },
+  {
+    "gloss": "scotland",
+    "id": 975
+  },
+  {
+    "gloss": "screwdriver",
+    "id": 976
+  },
+  {
+    "gloss": "second",
+    "id": 977
+  },
+  {
+    "gloss": "senate",
+    "id": 978
+  },
+  {
+    "gloss": "separate",
+    "id": 979
+  },
+  {
+    "gloss": "service",
+    "id": 980
+  },
+  {
+    "gloss": "shrimp",
+    "id": 981
+  },
+  {
+    "gloss": "shy",
+    "id": 982
+  },
+  {
+    "gloss": "side",
+    "id": 983
+  },
+  {
+    "gloss": "situation",
+    "id": 984
+  },
+  {
+    "gloss": "slave",
+    "id": 985
+  },
+  {
+    "gloss": "soccer",
+    "id": 986
+  },
+  {
+    "gloss": "socks",
+    "id": 987
+  },
+  {
+    "gloss": "solid",
+    "id": 988
+  },
+  {
+    "gloss": "sometimes",
+    "id": 989
+  },
+  {
+    "gloss": "spider",
+    "id": 990
+  },
+  {
+    "gloss": "spin",
+    "id": 991
+  },
+  {
+    "gloss": "square",
+    "id": 992
+  },
+  {
+    "gloss": "stairs",
+    "id": 993
+  },
+  {
+    "gloss": "stare",
+    "id": 994
+  },
+  {
+    "gloss": "start",
+    "id": 995
+  },
+  {
+    "gloss": "store",
+    "id": 996
+  },
+  {
+    "gloss": "straw",
+    "id": 997
+  },
+  {
+    "gloss": "structure",
+    "id": 998
+  },
+  {
+    "gloss": "suggest",
+    "id": 999
+  },
+  {
+    "gloss": "sun",
+    "id": 1000
+  },
+  {
+    "gloss": "support",
+    "id": 1001
+  },
+  {
+    "gloss": "suppose",
+    "id": 1002
+  },
+  {
+    "gloss": "sure",
+    "id": 1003
+  },
+  {
+    "gloss": "surprise",
+    "id": 1004
+  },
+  {
+    "gloss": "sweater",
+    "id": 1005
+  },
+  {
+    "gloss": "swim",
+    "id": 1006
+  },
+  {
+    "gloss": "symbol",
+    "id": 1007
+  },
+  {
+    "gloss": "taste",
+    "id": 1008
+  },
+  {
+    "gloss": "team",
+    "id": 1009
+  },
+  {
+    "gloss": "telephone",
+    "id": 1010
+  },
+  {
+    "gloss": "tennis",
+    "id": 1011
+  },
+  {
+    "gloss": "their",
+    "id": 1012
+  },
+  {
+    "gloss": "then",
+    "id": 1013
+  },
+  {
+    "gloss": "thermometer",
+    "id": 1014
+  },
+  {
+    "gloss": "thing",
+    "id": 1015
+  },
+  {
+    "gloss": "third",
+    "id": 1016
+  },
+  {
+    "gloss": "thousand",
+    "id": 1017
+  },
+  {
+    "gloss": "three",
+    "id": 1018
+  },
+  {
+    "gloss": "tie",
+    "id": 1019
+  },
+  {
+    "gloss": "topic",
+    "id": 1020
+  },
+  {
+    "gloss": "touch",
+    "id": 1021
+  },
+  {
+    "gloss": "tournament",
+    "id": 1022
+  },
+  {
+    "gloss": "try",
+    "id": 1023
+  },
+  {
+    "gloss": "two",
+    "id": 1024
+  },
+  {
+    "gloss": "type",
+    "id": 1025
+  },
+  {
+    "gloss": "umbrella",
+    "id": 1026
+  },
+  {
+    "gloss": "vegetable",
+    "id": 1027
+  },
+  {
+    "gloss": "vocabulary",
+    "id": 1028
+  },
+  {
+    "gloss": "waste",
+    "id": 1029
+  },
+  {
+    "gloss": "we",
+    "id": 1030
+  },
+  {
+    "gloss": "wear",
+    "id": 1031
+  },
+  {
+    "gloss": "weekly",
+    "id": 1032
+  },
+  {
+    "gloss": "welcome",
+    "id": 1033
+  },
+  {
+    "gloss": "winter",
+    "id": 1034
+  },
+  {
+    "gloss": "without",
+    "id": 1035
+  },
+  {
+    "gloss": "wolf",
+    "id": 1036
+  },
+  {
+    "gloss": "worm",
+    "id": 1037
+  },
+  {
+    "gloss": "wristwatch",
+    "id": 1038
+  },
+  {
+    "gloss": "yourself",
+    "id": 1039
+  },
+  {
+    "gloss": "above",
+    "id": 1040
+  },
+  {
+    "gloss": "accomplish",
+    "id": 1041
+  },
+  {
+    "gloss": "adopt",
+    "id": 1042
+  },
+  {
+    "gloss": "advantage",
+    "id": 1043
+  },
+  {
+    "gloss": "alphabet",
+    "id": 1044
+  },
+  {
+    "gloss": "anniversary",
+    "id": 1045
+  },
+  {
+    "gloss": "another",
+    "id": 1046
+  },
+  {
+    "gloss": "appropriate",
+    "id": 1047
+  },
+  {
+    "gloss": "arrogant",
+    "id": 1048
+  },
+  {
+    "gloss": "artist",
+    "id": 1049
+  },
+  {
+    "gloss": "background",
+    "id": 1050
+  },
+  {
+    "gloss": "bee",
+    "id": 1051
+  },
+  {
+    "gloss": "behavior",
+    "id": 1052
+  },
+  {
+    "gloss": "bell",
+    "id": 1053
+  },
+  {
+    "gloss": "birth",
+    "id": 1054
+  },
+  {
+    "gloss": "bless",
+    "id": 1055
+  },
+  {
+    "gloss": "blood",
+    "id": 1056
+  },
+  {
+    "gloss": "boots",
+    "id": 1057
+  },
+  {
+    "gloss": "brave",
+    "id": 1058
+  },
+  {
+    "gloss": "breathe",
+    "id": 1059
+  },
+  {
+    "gloss": "bright",
+    "id": 1060
+  },
+  {
+    "gloss": "bull",
+    "id": 1061
+  },
+  {
+    "gloss": "butterfly",
+    "id": 1062
+  },
+  {
+    "gloss": "card",
+    "id": 1063
+  },
+  {
+    "gloss": "category",
+    "id": 1064
+  },
+  {
+    "gloss": "catholic",
+    "id": 1065
+  },
+  {
+    "gloss": "cent",
+    "id": 1066
+  },
+  {
+    "gloss": "chemistry",
+    "id": 1067
+  },
+  {
+    "gloss": "cherry",
+    "id": 1068
+  },
+  {
+    "gloss": "china",
+    "id": 1069
+  },
+  {
+    "gloss": "chop",
+    "id": 1070
+  },
+  {
+    "gloss": "christian",
+    "id": 1071
+  },
+  {
+    "gloss": "cigarette",
+    "id": 1072
+  },
+  {
+    "gloss": "clever",
+    "id": 1073
+  },
+  {
+    "gloss": "clown",
+    "id": 1074
+  },
+  {
+    "gloss": "coach",
+    "id": 1075
+  },
+  {
+    "gloss": "coat",
+    "id": 1076
+  },
+  {
+    "gloss": "cochlear implant",
+    "id": 1077
+  },
+  {
+    "gloss": "coconut",
+    "id": 1078
+  },
+  {
+    "gloss": "common",
+    "id": 1079
+  },
+  {
+    "gloss": "commute",
+    "id": 1080
+  },
+  {
+    "gloss": "control",
+    "id": 1081
+  },
+  {
+    "gloss": "count",
+    "id": 1082
+  },
+  {
+    "gloss": "culture",
+    "id": 1083
+  },
+  {
+    "gloss": "daily",
+    "id": 1084
+  },
+  {
+    "gloss": "defend",
+    "id": 1085
+  },
+  {
+    "gloss": "degree",
+    "id": 1086
+  },
+  {
+    "gloss": "demonstrate",
+    "id": 1087
+  },
+  {
+    "gloss": "department",
+    "id": 1088
+  },
+  {
+    "gloss": "die",
+    "id": 1089
+  },
+  {
+    "gloss": "dig",
+    "id": 1090
+  },
+  {
+    "gloss": "dinner",
+    "id": 1091
+  },
+  {
+    "gloss": "dinosaur",
+    "id": 1092
+  },
+  {
+    "gloss": "diploma",
+    "id": 1093
+  },
+  {
+    "gloss": "director",
+    "id": 1094
+  },
+  {
+    "gloss": "disconnect",
+    "id": 1095
+  },
+  {
+    "gloss": "discover",
+    "id": 1096
+  },
+  {
+    "gloss": "don't want",
+    "id": 1097
+  },
+  {
+    "gloss": "drum",
+    "id": 1098
+  },
+  {
+    "gloss": "each",
+    "id": 1099
+  },
+  {
+    "gloss": "educate",
+    "id": 1100
+  },
+  {
+    "gloss": "electrician",
+    "id": 1101
+  },
+  {
+    "gloss": "empty",
+    "id": 1102
+  },
+  {
+    "gloss": "england",
+    "id": 1103
+  },
+  {
+    "gloss": "establish",
+    "id": 1104
+  },
+  {
+    "gloss": "excuse",
+    "id": 1105
+  },
+  {
+    "gloss": "eyeglasses",
+    "id": 1106
+  },
+  {
+    "gloss": "faculty",
+    "id": 1107
+  },
+  {
+    "gloss": "fall in love",
+    "id": 1108
+  },
+  {
+    "gloss": "famous",
+    "id": 1109
+  },
+  {
+    "gloss": "farm",
+    "id": 1110
+  },
+  {
+    "gloss": "fence",
+    "id": 1111
+  },
+  {
+    "gloss": "fix",
+    "id": 1112
+  },
+  {
+    "gloss": "flexible",
+    "id": 1113
+  },
+  {
+    "gloss": "flirt",
+    "id": 1114
+  },
+  {
+    "gloss": "flood",
+    "id": 1115
+  },
+  {
+    "gloss": "fork",
+    "id": 1116
+  },
+  {
+    "gloss": "four",
+    "id": 1117
+  },
+  {
+    "gloss": "fun",
+    "id": 1118
+  },
+  {
+    "gloss": "funeral",
+    "id": 1119
+  },
+  {
+    "gloss": "furniture",
+    "id": 1120
+  },
+  {
+    "gloss": "gallaudet",
+    "id": 1121
+  },
+  {
+    "gloss": "general",
+    "id": 1122
+  },
+  {
+    "gloss": "ghost",
+    "id": 1123
+  },
+  {
+    "gloss": "give up",
+    "id": 1124
+  },
+  {
+    "gloss": "glass",
+    "id": 1125
+  },
+  {
+    "gloss": "gorilla",
+    "id": 1126
+  },
+  {
+    "gloss": "gray",
+    "id": 1127
+  },
+  {
+    "gloss": "guide",
+    "id": 1128
+  },
+  {
+    "gloss": "habit",
+    "id": 1129
+  },
+  {
+    "gloss": "health",
+    "id": 1130
+  },
+  {
+    "gloss": "hearing aid",
+    "id": 1131
+  },
+  {
+    "gloss": "heaven",
+    "id": 1132
+  },
+  {
+    "gloss": "heavy",
+    "id": 1133
+  },
+  {
+    "gloss": "helmet",
+    "id": 1134
+  },
+  {
+    "gloss": "hide",
+    "id": 1135
+  },
+  {
+    "gloss": "high school",
+    "id": 1136
+  },
+  {
+    "gloss": "hockey",
+    "id": 1137
+  },
+  {
+    "gloss": "hold",
+    "id": 1138
+  },
+  {
+    "gloss": "honest",
+    "id": 1139
+  },
+  {
+    "gloss": "hug",
+    "id": 1140
+  },
+  {
+    "gloss": "hunt",
+    "id": 1141
+  },
+  {
+    "gloss": "image",
+    "id": 1142
+  },
+  {
+    "gloss": "influence",
+    "id": 1143
+  },
+  {
+    "gloss": "interesting",
+    "id": 1144
+  },
+  {
+    "gloss": "interpreter",
+    "id": 1145
+  },
+  {
+    "gloss": "iran",
+    "id": 1146
+  },
+  {
+    "gloss": "italy",
+    "id": 1147
+  },
+  {
+    "gloss": "jewish",
+    "id": 1148
+  },
+  {
+    "gloss": "judge",
+    "id": 1149
+  },
+  {
+    "gloss": "key",
+    "id": 1150
+  },
+  {
+    "gloss": "label",
+    "id": 1151
+  },
+  {
+    "gloss": "leaf",
+    "id": 1152
+  },
+  {
+    "gloss": "left",
+    "id": 1153
+  },
+  {
+    "gloss": "lend",
+    "id": 1154
+  },
+  {
+    "gloss": "less",
+    "id": 1155
+  },
+  {
+    "gloss": "linguistics",
+    "id": 1156
+  },
+  {
+    "gloss": "lonely",
+    "id": 1157
+  },
+  {
+    "gloss": "long",
+    "id": 1158
+  },
+  {
+    "gloss": "magic",
+    "id": 1159
+  },
+  {
+    "gloss": "mainstream",
+    "id": 1160
+  },
+  {
+    "gloss": "major",
+    "id": 1161
+  },
+  {
+    "gloss": "manager",
+    "id": 1162
+  },
+  {
+    "gloss": "maximum",
+    "id": 1163
+  },
+  {
+    "gloss": "me",
+    "id": 1164
+  },
+  {
+    "gloss": "mexico",
+    "id": 1165
+  },
+  {
+    "gloss": "middle",
+    "id": 1166
+  },
+  {
+    "gloss": "mind",
+    "id": 1167
+  },
+  {
+    "gloss": "misunderstand",
+    "id": 1168
+  },
+  {
+    "gloss": "monster",
+    "id": 1169
+  },
+  {
+    "gloss": "multiply",
+    "id": 1170
+  },
+  {
+    "gloss": "myself",
+    "id": 1171
+  },
+  {
+    "gloss": "nothing",
+    "id": 1172
+  },
+  {
+    "gloss": "october",
+    "id": 1173
+  },
+  {
+    "gloss": "odd",
+    "id": 1174
+  },
+  {
+    "gloss": "offer",
+    "id": 1175
+  },
+  {
+    "gloss": "on",
+    "id": 1176
+  },
+  {
+    "gloss": "only",
+    "id": 1177
+  },
+  {
+    "gloss": "opposite",
+    "id": 1178
+  },
+  {
+    "gloss": "out",
+    "id": 1179
+  },
+  {
+    "gloss": "overlook",
+    "id": 1180
+  },
+  {
+    "gloss": "path",
+    "id": 1181
+  },
+  {
+    "gloss": "percent",
+    "id": 1182
+  },
+  {
+    "gloss": "physics",
+    "id": 1183
+  },
+  {
+    "gloss": "piano",
+    "id": 1184
+  },
+  {
+    "gloss": "pick",
+    "id": 1185
+  },
+  {
+    "gloss": "pie",
+    "id": 1186
+  },
+  {
+    "gloss": "plate",
+    "id": 1187
+  },
+  {
+    "gloss": "pocket",
+    "id": 1188
+  },
+  {
+    "gloss": "popcorn",
+    "id": 1189
+  },
+  {
+    "gloss": "positive",
+    "id": 1190
+  },
+  {
+    "gloss": "pregnant",
+    "id": 1191
+  },
+  {
+    "gloss": "prevent",
+    "id": 1192
+  },
+  {
+    "gloss": "proof",
+    "id": 1193
+  },
+  {
+    "gloss": "pumpkin",
+    "id": 1194
+  },
+  {
+    "gloss": "purpose",
+    "id": 1195
+  },
+  {
+    "gloss": "race",
+    "id": 1196
+  },
+  {
+    "gloss": "realize",
+    "id": 1197
+  },
+  {
+    "gloss": "recognize",
+    "id": 1198
+  },
+  {
+    "gloss": "refuse",
+    "id": 1199
+  },
+  {
+    "gloss": "relationship",
+    "id": 1200
+  },
+  {
+    "gloss": "repeat",
+    "id": 1201
+  },
+  {
+    "gloss": "replace",
+    "id": 1202
+  },
+  {
+    "gloss": "report",
+    "id": 1203
+  },
+  {
+    "gloss": "represent",
+    "id": 1204
+  },
+  {
+    "gloss": "request",
+    "id": 1205
+  },
+  {
+    "gloss": "responsibility",
+    "id": 1206
+  },
+  {
+    "gloss": "result",
+    "id": 1207
+  },
+  {
+    "gloss": "reveal",
+    "id": 1208
+  },
+  {
+    "gloss": "ring",
+    "id": 1209
+  },
+  {
+    "gloss": "rob",
+    "id": 1210
+  },
+  {
+    "gloss": "rock",
+    "id": 1211
+  },
+  {
+    "gloss": "role",
+    "id": 1212
+  },
+  {
+    "gloss": "rope",
+    "id": 1213
+  },
+  {
+    "gloss": "rush",
+    "id": 1214
+  },
+  {
+    "gloss": "salute",
+    "id": 1215
+  },
+  {
+    "gloss": "satisfy",
+    "id": 1216
+  },
+  {
+    "gloss": "search",
+    "id": 1217
+  },
+  {
+    "gloss": "selfish",
+    "id": 1218
+  },
+  {
+    "gloss": "sensitive",
+    "id": 1219
+  },
+  {
+    "gloss": "serve",
+    "id": 1220
+  },
+  {
+    "gloss": "seven",
+    "id": 1221
+  },
+  {
+    "gloss": "shampoo",
+    "id": 1222
+  },
+  {
+    "gloss": "she",
+    "id": 1223
+  },
+  {
+    "gloss": "shelf",
+    "id": 1224
+  },
+  {
+    "gloss": "shopping",
+    "id": 1225
+  },
+  {
+    "gloss": "sign language",
+    "id": 1226
+  },
+  {
+    "gloss": "similar",
+    "id": 1227
+  },
+  {
+    "gloss": "sing",
+    "id": 1228
+  },
+  {
+    "gloss": "six",
+    "id": 1229
+  },
+  {
+    "gloss": "skeleton",
+    "id": 1230
+  },
+  {
+    "gloss": "sketch",
+    "id": 1231
+  },
+  {
+    "gloss": "skill",
+    "id": 1232
+  },
+  {
+    "gloss": "sleepy",
+    "id": 1233
+  },
+  {
+    "gloss": "slip",
+    "id": 1234
+  },
+  {
+    "gloss": "smell",
+    "id": 1235
+  },
+  {
+    "gloss": "sneeze",
+    "id": 1236
+  },
+  {
+    "gloss": "snob",
+    "id": 1237
+  },
+  {
+    "gloss": "specific",
+    "id": 1238
+  },
+  {
+    "gloss": "stamp",
+    "id": 1239
+  },
+  {
+    "gloss": "steel",
+    "id": 1240
+  },
+  {
+    "gloss": "strawberry",
+    "id": 1241
+  },
+  {
+    "gloss": "subtract",
+    "id": 1242
+  },
+  {
+    "gloss": "subway",
+    "id": 1243
+  },
+  {
+    "gloss": "suffer",
+    "id": 1244
+  },
+  {
+    "gloss": "surface",
+    "id": 1245
+  },
+  {
+    "gloss": "sweep",
+    "id": 1246
+  },
+  {
+    "gloss": "swing",
+    "id": 1247
+  },
+  {
+    "gloss": "switzerland",
+    "id": 1248
+  },
+  {
+    "gloss": "tale",
+    "id": 1249
+  },
+  {
+    "gloss": "tan",
+    "id": 1250
+  },
+  {
+    "gloss": "teeth",
+    "id": 1251
+  },
+  {
+    "gloss": "terrible",
+    "id": 1252
+  },
+  {
+    "gloss": "thankful",
+    "id": 1253
+  },
+  {
+    "gloss": "they",
+    "id": 1254
+  },
+  {
+    "gloss": "through",
+    "id": 1255
+  },
+  {
+    "gloss": "tiptoe",
+    "id": 1256
+  },
+  {
+    "gloss": "title",
+    "id": 1257
+  },
+  {
+    "gloss": "tooth",
+    "id": 1258
+  },
+  {
+    "gloss": "toothbrush",
+    "id": 1259
+  },
+  {
+    "gloss": "total",
+    "id": 1260
+  },
+  {
+    "gloss": "tough",
+    "id": 1261
+  },
+  {
+    "gloss": "tradition",
+    "id": 1262
+  },
+  {
+    "gloss": "trophy",
+    "id": 1263
+  },
+  {
+    "gloss": "trouble",
+    "id": 1264
+  },
+  {
+    "gloss": "true",
+    "id": 1265
+  },
+  {
+    "gloss": "trust",
+    "id": 1266
+  },
+  {
+    "gloss": "under",
+    "id": 1267
+  },
+  {
+    "gloss": "verb",
+    "id": 1268
+  },
+  {
+    "gloss": "wall",
+    "id": 1269
+  },
+  {
+    "gloss": "watermelon",
+    "id": 1270
+  },
+  {
+    "gloss": "way",
+    "id": 1271
+  },
+  {
+    "gloss": "weird",
+    "id": 1272
+  },
+  {
+    "gloss": "while",
+    "id": 1273
+  },
+  {
+    "gloss": "wide",
+    "id": 1274
+  },
+  {
+    "gloss": "willing",
+    "id": 1275
+  },
+  {
+    "gloss": "wish",
+    "id": 1276
+  },
+  {
+    "gloss": "wonderful",
+    "id": 1277
+  },
+  {
+    "gloss": "workshop",
+    "id": 1278
+  },
+  {
+    "gloss": "worse",
+    "id": 1279
+  },
+  {
+    "gloss": "wrench",
+    "id": 1280
+  },
+  {
+    "gloss": "a",
+    "id": 1281
+  },
+  {
+    "gloss": "a lot",
+    "id": 1282
+  },
+  {
+    "gloss": "abdomen",
+    "id": 1283
+  },
+  {
+    "gloss": "able",
+    "id": 1284
+  },
+  {
+    "gloss": "accountant",
+    "id": 1285
+  },
+  {
+    "gloss": "action",
+    "id": 1286
+  },
+  {
+    "gloss": "active",
+    "id": 1287
+  },
+  {
+    "gloss": "activity",
+    "id": 1288
+  },
+  {
+    "gloss": "address",
+    "id": 1289
+  },
+  {
+    "gloss": "affect",
+    "id": 1290
+  },
+  {
+    "gloss": "afraid",
+    "id": 1291
+  },
+  {
+    "gloss": "against",
+    "id": 1292
+  },
+  {
+    "gloss": "agenda",
+    "id": 1293
+  },
+  {
+    "gloss": "ahead",
+    "id": 1294
+  },
+  {
+    "gloss": "aim",
+    "id": 1295
+  },
+  {
+    "gloss": "alcohol",
+    "id": 1296
+  },
+  {
+    "gloss": "algebra",
+    "id": 1297
+  },
+  {
+    "gloss": "all day",
+    "id": 1298
+  },
+  {
+    "gloss": "amazing",
+    "id": 1299
+  },
+  {
+    "gloss": "angle",
+    "id": 1300
+  },
+  {
+    "gloss": "apart",
+    "id": 1301
+  },
+  {
+    "gloss": "apostrophe",
+    "id": 1302
+  },
+  {
+    "gloss": "appetite",
+    "id": 1303
+  },
+  {
+    "gloss": "appreciate",
+    "id": 1304
+  },
+  {
+    "gloss": "april",
+    "id": 1305
+  },
+  {
+    "gloss": "archery",
+    "id": 1306
+  },
+  {
+    "gloss": "around",
+    "id": 1307
+  },
+  {
+    "gloss": "article",
+    "id": 1308
+  },
+  {
+    "gloss": "assistant",
+    "id": 1309
+  },
+  {
+    "gloss": "attend",
+    "id": 1310
+  },
+  {
+    "gloss": "auction",
+    "id": 1311
+  },
+  {
+    "gloss": "authority",
+    "id": 1312
+  },
+  {
+    "gloss": "average",
+    "id": 1313
+  },
+  {
+    "gloss": "awake",
+    "id": 1314
+  },
+  {
+    "gloss": "b",
+    "id": 1315
+  },
+  {
+    "gloss": "babysitter",
+    "id": 1316
+  },
+  {
+    "gloss": "battle",
+    "id": 1317
+  },
+  {
+    "gloss": "beginning",
+    "id": 1318
+  },
+  {
+    "gloss": "belief",
+    "id": 1319
+  },
+  {
+    "gloss": "bible",
+    "id": 1320
+  },
+  {
+    "gloss": "bike",
+    "id": 1321
+  },
+  {
+    "gloss": "blend",
+    "id": 1322
+  },
+  {
+    "gloss": "bone",
+    "id": 1323
+  },
+  {
+    "gloss": "bra",
+    "id": 1324
+  },
+  {
+    "gloss": "brief",
+    "id": 1325
+  },
+  {
+    "gloss": "broke",
+    "id": 1326
+  },
+  {
+    "gloss": "bug",
+    "id": 1327
+  },
+  {
+    "gloss": "bully",
+    "id": 1328
+  },
+  {
+    "gloss": "button",
+    "id": 1329
+  },
+  {
+    "gloss": "cabbage",
+    "id": 1330
+  },
+  {
+    "gloss": "cabinet",
+    "id": 1331
+  },
+  {
+    "gloss": "calculate",
+    "id": 1332
+  },
+  {
+    "gloss": "calculator",
+    "id": 1333
+  },
+  {
+    "gloss": "calculus",
+    "id": 1334
+  },
+  {
+    "gloss": "camping",
+    "id": 1335
+  },
+  {
+    "gloss": "canoe",
+    "id": 1336
+  },
+  {
+    "gloss": "careless",
+    "id": 1337
+  },
+  {
+    "gloss": "ceiling",
+    "id": 1338
+  },
+  {
+    "gloss": "cemetery",
+    "id": 1339
+  },
+  {
+    "gloss": "chapter",
+    "id": 1340
+  },
+  {
+    "gloss": "choir",
+    "id": 1341
+  },
+  {
+    "gloss": "circle",
+    "id": 1342
+  },
+  {
+    "gloss": "come",
+    "id": 1343
+  },
+  {
+    "gloss": "come here",
+    "id": 1344
+  },
+  {
+    "gloss": "company",
+    "id": 1345
+  },
+  {
+    "gloss": "complete",
+    "id": 1346
+  },
+  {
+    "gloss": "concept",
+    "id": 1347
+  },
+  {
+    "gloss": "concern",
+    "id": 1348
+  },
+  {
+    "gloss": "confront",
+    "id": 1349
+  },
+  {
+    "gloss": "confused",
+    "id": 1350
+  },
+  {
+    "gloss": "congress",
+    "id": 1351
+  },
+  {
+    "gloss": "connect",
+    "id": 1352
+  },
+  {
+    "gloss": "conquer",
+    "id": 1353
+  },
+  {
+    "gloss": "constitution",
+    "id": 1354
+  },
+  {
+    "gloss": "contract",
+    "id": 1355
+  },
+  {
+    "gloss": "court",
+    "id": 1356
+  },
+  {
+    "gloss": "crab",
+    "id": 1357
+  },
+  {
+    "gloss": "cross",
+    "id": 1358
+  },
+  {
+    "gloss": "cruel",
+    "id": 1359
+  },
+  {
+    "gloss": "crush",
+    "id": 1360
+  },
+  {
+    "gloss": "date",
+    "id": 1361
+  },
+  {
+    "gloss": "december",
+    "id": 1362
+  },
+  {
+    "gloss": "decrease",
+    "id": 1363
+  },
+  {
+    "gloss": "deduct",
+    "id": 1364
+  },
+  {
+    "gloss": "defeat",
+    "id": 1365
+  },
+  {
+    "gloss": "deposit",
+    "id": 1366
+  },
+  {
+    "gloss": "depressed",
+    "id": 1367
+  },
+  {
+    "gloss": "detach",
+    "id": 1368
+  },
+  {
+    "gloss": "determine",
+    "id": 1369
+  },
+  {
+    "gloss": "diabetes",
+    "id": 1370
+  },
+  {
+    "gloss": "dime",
+    "id": 1371
+  },
+  {
+    "gloss": "dirt",
+    "id": 1372
+  },
+  {
+    "gloss": "disgust",
+    "id": 1373
+  },
+  {
+    "gloss": "dismiss",
+    "id": 1374
+  },
+  {
+    "gloss": "dizzy",
+    "id": 1375
+  },
+  {
+    "gloss": "document",
+    "id": 1376
+  },
+  {
+    "gloss": "dorm",
+    "id": 1377
+  },
+  {
+    "gloss": "dormitory",
+    "id": 1378
+  },
+  {
+    "gloss": "downstairs",
+    "id": 1379
+  },
+  {
+    "gloss": "economy",
+    "id": 1380
+  },
+  {
+    "gloss": "education",
+    "id": 1381
+  },
+  {
+    "gloss": "effort",
+    "id": 1382
+  },
+  {
+    "gloss": "eighteen",
+    "id": 1383
+  },
+  {
+    "gloss": "engage",
+    "id": 1384
+  },
+  {
+    "gloss": "engagement",
+    "id": 1385
+  },
+  {
+    "gloss": "engineer",
+    "id": 1386
+  },
+  {
+    "gloss": "envelope",
+    "id": 1387
+  },
+  {
+    "gloss": "erase",
+    "id": 1388
+  },
+  {
+    "gloss": "eternity",
+    "id": 1389
+  },
+  {
+    "gloss": "evening",
+    "id": 1390
+  },
+  {
+    "gloss": "everyday",
+    "id": 1391
+  },
+  {
+    "gloss": "expand",
+    "id": 1392
+  },
+  {
+    "gloss": "eye",
+    "id": 1393
+  },
+  {
+    "gloss": "eyes",
+    "id": 1394
+  },
+  {
+    "gloss": "fake",
+    "id": 1395
+  },
+  {
+    "gloss": "farmer",
+    "id": 1396
+  },
+  {
+    "gloss": "february",
+    "id": 1397
+  },
+  {
+    "gloss": "federal",
+    "id": 1398
+  },
+  {
+    "gloss": "final",
+    "id": 1399
+  },
+  {
+    "gloss": "florida",
+    "id": 1400
+  },
+  {
+    "gloss": "flute",
+    "id": 1401
+  },
+  {
+    "gloss": "forbid",
+    "id": 1402
+  },
+  {
+    "gloss": "forever",
+    "id": 1403
+  },
+  {
+    "gloss": "fourth",
+    "id": 1404
+  },
+  {
+    "gloss": "free",
+    "id": 1405
+  },
+  {
+    "gloss": "french fries",
+    "id": 1406
+  },
+  {
+    "gloss": "gamble",
+    "id": 1407
+  },
+  {
+    "gloss": "gas",
+    "id": 1408
+  },
+  {
+    "gloss": "gasoline",
+    "id": 1409
+  },
+  {
+    "gloss": "generation",
+    "id": 1410
+  },
+  {
+    "gloss": "geography",
+    "id": 1411
+  },
+  {
+    "gloss": "german",
+    "id": 1412
+  },
+  {
+    "gloss": "girlfriend",
+    "id": 1413
+  },
+  {
+    "gloss": "gold",
+    "id": 1414
+  },
+  {
+    "gloss": "grandma",
+    "id": 1415
+  },
+  {
+    "gloss": "grass",
+    "id": 1416
+  },
+  {
+    "gloss": "grow up",
+    "id": 1417
+  },
+  {
+    "gloss": "gun",
+    "id": 1418
+  },
+  {
+    "gloss": "haircut",
+    "id": 1419
+  },
+  {
+    "gloss": "hard of hearing",
+    "id": 1420
+  },
+  {
+    "gloss": "hippopotamus",
+    "id": 1421
+  },
+  {
+    "gloss": "his",
+    "id": 1422
+  },
+  {
+    "gloss": "honey",
+    "id": 1423
+  },
+  {
+    "gloss": "hurricane",
+    "id": 1424
+  },
+  {
+    "gloss": "identify",
+    "id": 1425
+  },
+  {
+    "gloss": "include",
+    "id": 1426
+  },
+  {
+    "gloss": "infection",
+    "id": 1427
+  },
+  {
+    "gloss": "innocent",
+    "id": 1428
+  },
+  {
+    "gloss": "insect",
+    "id": 1429
+  },
+  {
+    "gloss": "instead",
+    "id": 1430
+  },
+  {
+    "gloss": "institute",
+    "id": 1431
+  },
+  {
+    "gloss": "international",
+    "id": 1432
+  },
+  {
+    "gloss": "interrupt",
+    "id": 1433
+  },
+  {
+    "gloss": "involve",
+    "id": 1434
+  },
+  {
+    "gloss": "jail",
+    "id": 1435
+  },
+  {
+    "gloss": "january",
+    "id": 1436
+  },
+  {
+    "gloss": "joke",
+    "id": 1437
+  },
+  {
+    "gloss": "june",
+    "id": 1438
+  },
+  {
+    "gloss": "kangaroo",
+    "id": 1439
+  },
+  {
+    "gloss": "karate",
+    "id": 1440
+  },
+  {
+    "gloss": "kick",
+    "id": 1441
+  },
+  {
+    "gloss": "kneel",
+    "id": 1442
+  },
+  {
+    "gloss": "knock",
+    "id": 1443
+  },
+  {
+    "gloss": "laptop",
+    "id": 1444
+  },
+  {
+    "gloss": "lift",
+    "id": 1445
+  },
+  {
+    "gloss": "lightning",
+    "id": 1446
+  },
+  {
+    "gloss": "lip",
+    "id": 1447
+  },
+  {
+    "gloss": "lipstick",
+    "id": 1448
+  },
+  {
+    "gloss": "local",
+    "id": 1449
+  },
+  {
+    "gloss": "manage",
+    "id": 1450
+  },
+  {
+    "gloss": "mature",
+    "id": 1451
+  },
+  {
+    "gloss": "member",
+    "id": 1452
+  },
+  {
+    "gloss": "message",
+    "id": 1453
+  },
+  {
+    "gloss": "metal",
+    "id": 1454
+  },
+  {
+    "gloss": "microphone",
+    "id": 1455
+  },
+  {
+    "gloss": "mix",
+    "id": 1456
+  },
+  {
+    "gloss": "monthly",
+    "id": 1457
+  },
+  {
+    "gloss": "motor",
+    "id": 1458
+  },
+  {
+    "gloss": "nation",
+    "id": 1459
+  },
+  {
+    "gloss": "network",
+    "id": 1460
+  },
+  {
+    "gloss": "nickel",
+    "id": 1461
+  },
+  {
+    "gloss": "nineteen",
+    "id": 1462
+  },
+  {
+    "gloss": "normal",
+    "id": 1463
+  },
+  {
+    "gloss": "november",
+    "id": 1464
+  },
+  {
+    "gloss": "nut",
+    "id": 1465
+  },
+  {
+    "gloss": "octopus",
+    "id": 1466
+  },
+  {
+    "gloss": "once",
+    "id": 1467
+  },
+  {
+    "gloss": "organize",
+    "id": 1468
+  },
+  {
+    "gloss": "over",
+    "id": 1469
+  },
+  {
+    "gloss": "owl",
+    "id": 1470
+  },
+  {
+    "gloss": "p",
+    "id": 1471
+  },
+  {
+    "gloss": "parachute",
+    "id": 1472
+  },
+  {
+    "gloss": "paragraph",
+    "id": 1473
+  },
+  {
+    "gloss": "parallel",
+    "id": 1474
+  },
+  {
+    "gloss": "pay attention",
+    "id": 1475
+  },
+  {
+    "gloss": "peace",
+    "id": 1476
+  },
+  {
+    "gloss": "peanut butter",
+    "id": 1477
+  },
+  {
+    "gloss": "perfume",
+    "id": 1478
+  },
+  {
+    "gloss": "personality",
+    "id": 1479
+  },
+  {
+    "gloss": "pet",
+    "id": 1480
+  },
+  {
+    "gloss": "philadelphia",
+    "id": 1481
+  },
+  {
+    "gloss": "physician",
+    "id": 1482
+  },
+  {
+    "gloss": "piece",
+    "id": 1483
+  },
+  {
+    "gloss": "pity",
+    "id": 1484
+  },
+  {
+    "gloss": "plant",
+    "id": 1485
+  },
+  {
+    "gloss": "plenty",
+    "id": 1486
+  },
+  {
+    "gloss": "pneumonia",
+    "id": 1487
+  },
+  {
+    "gloss": "politics",
+    "id": 1488
+  },
+  {
+    "gloss": "position",
+    "id": 1489
+  },
+  {
+    "gloss": "pound",
+    "id": 1490
+  },
+  {
+    "gloss": "pour",
+    "id": 1491
+  },
+  {
+    "gloss": "praise",
+    "id": 1492
+  },
+  {
+    "gloss": "preach",
+    "id": 1493
+  },
+  {
+    "gloss": "preacher",
+    "id": 1494
+  },
+  {
+    "gloss": "prefer",
+    "id": 1495
+  },
+  {
+    "gloss": "pressure",
+    "id": 1496
+  },
+  {
+    "gloss": "principal",
+    "id": 1497
+  },
+  {
+    "gloss": "priority",
+    "id": 1498
+  },
+  {
+    "gloss": "professional",
+    "id": 1499
+  },
+  {
+    "gloss": "professor",
+    "id": 1500
+  },
+  {
+    "gloss": "promote",
+    "id": 1501
+  },
+  {
+    "gloss": "prostitute",
+    "id": 1502
+  },
+  {
+    "gloss": "proud",
+    "id": 1503
+  },
+  {
+    "gloss": "quote",
+    "id": 1504
+  },
+  {
+    "gloss": "receive",
+    "id": 1505
+  },
+  {
+    "gloss": "recent",
+    "id": 1506
+  },
+  {
+    "gloss": "reduce",
+    "id": 1507
+  },
+  {
+    "gloss": "refer",
+    "id": 1508
+  },
+  {
+    "gloss": "referee",
+    "id": 1509
+  },
+  {
+    "gloss": "relate",
+    "id": 1510
+  },
+  {
+    "gloss": "relax",
+    "id": 1511
+  },
+  {
+    "gloss": "remote control",
+    "id": 1512
+  },
+  {
+    "gloss": "rent",
+    "id": 1513
+  },
+  {
+    "gloss": "reputation",
+    "id": 1514
+  },
+  {
+    "gloss": "resign",
+    "id": 1515
+  },
+  {
+    "gloss": "responsible",
+    "id": 1516
+  },
+  {
+    "gloss": "ridiculous",
+    "id": 1517
+  },
+  {
+    "gloss": "road",
+    "id": 1518
+  },
+  {
+    "gloss": "robot",
+    "id": 1519
+  },
+  {
+    "gloss": "rubber",
+    "id": 1520
+  },
+  {
+    "gloss": "safe",
+    "id": 1521
+  },
+  {
+    "gloss": "sauce",
+    "id": 1522
+  },
+  {
+    "gloss": "sausage",
+    "id": 1523
+  },
+  {
+    "gloss": "scold",
+    "id": 1524
+  },
+  {
+    "gloss": "senior",
+    "id": 1525
+  },
+  {
+    "gloss": "september",
+    "id": 1526
+  },
+  {
+    "gloss": "several",
+    "id": 1527
+  },
+  {
+    "gloss": "shame",
+    "id": 1528
+  },
+  {
+    "gloss": "shave",
+    "id": 1529
+  },
+  {
+    "gloss": "shoot",
+    "id": 1530
+  },
+  {
+    "gloss": "shoulder",
+    "id": 1531
+  },
+  {
+    "gloss": "silver",
+    "id": 1532
+  },
+  {
+    "gloss": "simple",
+    "id": 1533
+  },
+  {
+    "gloss": "siren",
+    "id": 1534
+  },
+  {
+    "gloss": "size",
+    "id": 1535
+  },
+  {
+    "gloss": "skate",
+    "id": 1536
+  },
+  {
+    "gloss": "skin",
+    "id": 1537
+  },
+  {
+    "gloss": "skunk",
+    "id": 1538
+  },
+  {
+    "gloss": "slice",
+    "id": 1539
+  },
+  {
+    "gloss": "smooth",
+    "id": 1540
+  },
+  {
+    "gloss": "snack",
+    "id": 1541
+  },
+  {
+    "gloss": "snowman",
+    "id": 1542
+  },
+  {
+    "gloss": "society",
+    "id": 1543
+  },
+  {
+    "gloss": "someone",
+    "id": 1544
+  },
+  {
+    "gloss": "song",
+    "id": 1545
+  },
+  {
+    "gloss": "sore throat",
+    "id": 1546
+  },
+  {
+    "gloss": "south america",
+    "id": 1547
+  },
+  {
+    "gloss": "spanish",
+    "id": 1548
+  },
+  {
+    "gloss": "speak",
+    "id": 1549
+  },
+  {
+    "gloss": "speed",
+    "id": 1550
+  },
+  {
+    "gloss": "spell",
+    "id": 1551
+  },
+  {
+    "gloss": "spoon",
+    "id": 1552
+  },
+  {
+    "gloss": "spring",
+    "id": 1553
+  },
+  {
+    "gloss": "standard",
+    "id": 1554
+  },
+  {
+    "gloss": "statistics",
+    "id": 1555
+  },
+  {
+    "gloss": "sticky",
+    "id": 1556
+  },
+  {
+    "gloss": "still",
+    "id": 1557
+  },
+  {
+    "gloss": "stretch",
+    "id": 1558
+  },
+  {
+    "gloss": "surgeon",
+    "id": 1559
+  },
+  {
+    "gloss": "sweden",
+    "id": 1560
+  },
+  {
+    "gloss": "swimsuit",
+    "id": 1561
+  },
+  {
+    "gloss": "sympathy",
+    "id": 1562
+  },
+  {
+    "gloss": "take turns",
+    "id": 1563
+  },
+  {
+    "gloss": "take up",
+    "id": 1564
+  },
+  {
+    "gloss": "technology",
+    "id": 1565
+  },
+  {
+    "gloss": "temple",
+    "id": 1566
+  },
+  {
+    "gloss": "tender",
+    "id": 1567
+  },
+  {
+    "gloss": "thailand",
+    "id": 1568
+  },
+  {
+    "gloss": "theater",
+    "id": 1569
+  },
+  {
+    "gloss": "them",
+    "id": 1570
+  },
+  {
+    "gloss": "theme",
+    "id": 1571
+  },
+  {
+    "gloss": "thick",
+    "id": 1572
+  },
+  {
+    "gloss": "this",
+    "id": 1573
+  },
+  {
+    "gloss": "throat",
+    "id": 1574
+  },
+  {
+    "gloss": "tissue",
+    "id": 1575
+  },
+  {
+    "gloss": "tongue",
+    "id": 1576
+  },
+  {
+    "gloss": "tonight",
+    "id": 1577
+  },
+  {
+    "gloss": "tornado",
+    "id": 1578
+  },
+  {
+    "gloss": "tower",
+    "id": 1579
+  },
+  {
+    "gloss": "tranquil",
+    "id": 1580
+  },
+  {
+    "gloss": "transform",
+    "id": 1581
+  },
+  {
+    "gloss": "tutor",
+    "id": 1582
+  },
+  {
+    "gloss": "twin",
+    "id": 1583
+  },
+  {
+    "gloss": "united states",
+    "id": 1584
+  },
+  {
+    "gloss": "value",
+    "id": 1585
+  },
+  {
+    "gloss": "visitor",
+    "id": 1586
+  },
+  {
+    "gloss": "waiter",
+    "id": 1587
+  },
+  {
+    "gloss": "wake up",
+    "id": 1588
+  },
+  {
+    "gloss": "wallet",
+    "id": 1589
+  },
+  {
+    "gloss": "wander",
+    "id": 1590
+  },
+  {
+    "gloss": "wash face",
+    "id": 1591
+  },
+  {
+    "gloss": "weight",
+    "id": 1592
+  },
+  {
+    "gloss": "whale",
+    "id": 1593
+  },
+  {
+    "gloss": "whatever",
+    "id": 1594
+  },
+  {
+    "gloss": "within",
+    "id": 1595
+  },
+  {
+    "gloss": "wonder",
+    "id": 1596
+  },
+  {
+    "gloss": "worker",
+    "id": 1597
+  },
+  {
+    "gloss": "worthless",
+    "id": 1598
+  },
+  {
+    "gloss": "wrap",
+    "id": 1599
+  },
+  {
+    "gloss": "accent",
+    "id": 1600
+  },
+  {
+    "gloss": "act",
+    "id": 1601
+  },
+  {
+    "gloss": "adapt",
+    "id": 1602
+  },
+  {
+    "gloss": "adjective",
+    "id": 1603
+  },
+  {
+    "gloss": "adjust",
+    "id": 1604
+  },
+  {
+    "gloss": "admire",
+    "id": 1605
+  },
+  {
+    "gloss": "admit",
+    "id": 1606
+  },
+  {
+    "gloss": "advanced",
+    "id": 1607
+  },
+  {
+    "gloss": "adverb",
+    "id": 1608
+  },
+  {
+    "gloss": "agreement",
+    "id": 1609
+  },
+  {
+    "gloss": "aid",
+    "id": 1610
+  },
+  {
+    "gloss": "alligator",
+    "id": 1611
+  },
+  {
+    "gloss": "amputate",
+    "id": 1612
+  },
+  {
+    "gloss": "anatomy",
+    "id": 1613
+  },
+  {
+    "gloss": "annoy",
+    "id": 1614
+  },
+  {
+    "gloss": "anyway",
+    "id": 1615
+  },
+  {
+    "gloss": "approach",
+    "id": 1616
+  },
+  {
+    "gloss": "arizona",
+    "id": 1617
+  },
+  {
+    "gloss": "assist",
+    "id": 1618
+  },
+  {
+    "gloss": "assume",
+    "id": 1619
+  },
+  {
+    "gloss": "attorney",
+    "id": 1620
+  },
+  {
+    "gloss": "audiologist",
+    "id": 1621
+  },
+  {
+    "gloss": "audiology",
+    "id": 1622
+  },
+  {
+    "gloss": "austria",
+    "id": 1623
+  },
+  {
+    "gloss": "author",
+    "id": 1624
+  },
+  {
+    "gloss": "available",
+    "id": 1625
+  },
+  {
+    "gloss": "award",
+    "id": 1626
+  },
+  {
+    "gloss": "aware",
+    "id": 1627
+  },
+  {
+    "gloss": "bank",
+    "id": 1628
+  },
+  {
+    "gloss": "baptize",
+    "id": 1629
+  },
+  {
+    "gloss": "basic",
+    "id": 1630
+  },
+  {
+    "gloss": "battery",
+    "id": 1631
+  },
+  {
+    "gloss": "berry",
+    "id": 1632
+  },
+  {
+    "gloss": "beside",
+    "id": 1633
+  },
+  {
+    "gloss": "between",
+    "id": 1634
+  },
+  {
+    "gloss": "binoculars",
+    "id": 1635
+  },
+  {
+    "gloss": "blow",
+    "id": 1636
+  },
+  {
+    "gloss": "boast",
+    "id": 1637
+  },
+  {
+    "gloss": "boil",
+    "id": 1638
+  },
+  {
+    "gloss": "bookshelf",
+    "id": 1639
+  },
+  {
+    "gloss": "bookstore",
+    "id": 1640
+  },
+  {
+    "gloss": "boxing",
+    "id": 1641
+  },
+  {
+    "gloss": "braid",
+    "id": 1642
+  },
+  {
+    "gloss": "brain",
+    "id": 1643
+  },
+  {
+    "gloss": "breakdown",
+    "id": 1644
+  },
+  {
+    "gloss": "breakfast",
+    "id": 1645
+  },
+  {
+    "gloss": "breeze",
+    "id": 1646
+  },
+  {
+    "gloss": "bribe",
+    "id": 1647
+  },
+  {
+    "gloss": "brochure",
+    "id": 1648
+  },
+  {
+    "gloss": "buffalo",
+    "id": 1649
+  },
+  {
+    "gloss": "burp",
+    "id": 1650
+  },
+  {
+    "gloss": "bush",
+    "id": 1651
+  },
+  {
+    "gloss": "bye",
+    "id": 1652
+  },
+  {
+    "gloss": "camel",
+    "id": 1653
+  },
+  {
+    "gloss": "candidate",
+    "id": 1654
+  },
+  {
+    "gloss": "cannot",
+    "id": 1655
+  },
+  {
+    "gloss": "captain",
+    "id": 1656
+  },
+  {
+    "gloss": "carnival",
+    "id": 1657
+  },
+  {
+    "gloss": "caterpillar",
+    "id": 1658
+  },
+  {
+    "gloss": "cheerleader",
+    "id": 1659
+  },
+  {
+    "gloss": "chemical",
+    "id": 1660
+  },
+  {
+    "gloss": "chicago",
+    "id": 1661
+  },
+  {
+    "gloss": "choke",
+    "id": 1662
+  },
+  {
+    "gloss": "christ",
+    "id": 1663
+  },
+  {
+    "gloss": "click",
+    "id": 1664
+  },
+  {
+    "gloss": "closet",
+    "id": 1665
+  },
+  {
+    "gloss": "clueless",
+    "id": 1666
+  },
+  {
+    "gloss": "clumsy",
+    "id": 1667
+  },
+  {
+    "gloss": "collect",
+    "id": 1668
+  },
+  {
+    "gloss": "comma",
+    "id": 1669
+  },
+  {
+    "gloss": "comment",
+    "id": 1670
+  },
+  {
+    "gloss": "commit",
+    "id": 1671
+  },
+  {
+    "gloss": "committee",
+    "id": 1672
+  },
+  {
+    "gloss": "common sense",
+    "id": 1673
+  },
+  {
+    "gloss": "compete",
+    "id": 1674
+  },
+  {
+    "gloss": "concentrate",
+    "id": 1675
+  },
+  {
+    "gloss": "congratulations",
+    "id": 1676
+  },
+  {
+    "gloss": "consider",
+    "id": 1677
+  },
+  {
+    "gloss": "construct",
+    "id": 1678
+  },
+  {
+    "gloss": "consume",
+    "id": 1679
+  },
+  {
+    "gloss": "contest",
+    "id": 1680
+  },
+  {
+    "gloss": "conversation",
+    "id": 1681
+  },
+  {
+    "gloss": "convert",
+    "id": 1682
+  },
+  {
+    "gloss": "cooperate",
+    "id": 1683
+  },
+  {
+    "gloss": "counsel",
+    "id": 1684
+  },
+  {
+    "gloss": "counselor",
+    "id": 1685
+  },
+  {
+    "gloss": "crave",
+    "id": 1686
+  },
+  {
+    "gloss": "create",
+    "id": 1687
+  },
+  {
+    "gloss": "crocodile",
+    "id": 1688
+  },
+  {
+    "gloss": "crown",
+    "id": 1689
+  },
+  {
+    "gloss": "cuba",
+    "id": 1690
+  },
+  {
+    "gloss": "curtain",
+    "id": 1691
+  },
+  {
+    "gloss": "customer",
+    "id": 1692
+  },
+  {
+    "gloss": "d",
+    "id": 1693
+  },
+  {
+    "gloss": "damage",
+    "id": 1694
+  },
+  {
+    "gloss": "dancer",
+    "id": 1695
+  },
+  {
+    "gloss": "danger",
+    "id": 1696
+  },
+  {
+    "gloss": "dangerous",
+    "id": 1697
+  },
+  {
+    "gloss": "dawn",
+    "id": 1698
+  },
+  {
+    "gloss": "death",
+    "id": 1699
+  },
+  {
+    "gloss": "debate",
+    "id": 1700
+  },
+  {
+    "gloss": "debt",
+    "id": 1701
+  },
+  {
+    "gloss": "deliver",
+    "id": 1702
+  },
+  {
+    "gloss": "democrat",
+    "id": 1703
+  },
+  {
+    "gloss": "descend",
+    "id": 1704
+  },
+  {
+    "gloss": "design",
+    "id": 1705
+  },
+  {
+    "gloss": "detective",
+    "id": 1706
+  },
+  {
+    "gloss": "devil",
+    "id": 1707
+  },
+  {
+    "gloss": "dice",
+    "id": 1708
+  },
+  {
+    "gloss": "difficult",
+    "id": 1709
+  },
+  {
+    "gloss": "dining room",
+    "id": 1710
+  },
+  {
+    "gloss": "discipline",
+    "id": 1711
+  },
+  {
+    "gloss": "discount",
+    "id": 1712
+  },
+  {
+    "gloss": "disgusted",
+    "id": 1713
+  },
+  {
+    "gloss": "disturb",
+    "id": 1714
+  },
+  {
+    "gloss": "division",
+    "id": 1715
+  },
+  {
+    "gloss": "done",
+    "id": 1716
+  },
+  {
+    "gloss": "drag",
+    "id": 1717
+  },
+  {
+    "gloss": "dragon",
+    "id": 1718
+  },
+  {
+    "gloss": "drama",
+    "id": 1719
+  },
+  {
+    "gloss": "drug",
+    "id": 1720
+  },
+  {
+    "gloss": "due",
+    "id": 1721
+  },
+  {
+    "gloss": "dull",
+    "id": 1722
+  },
+  {
+    "gloss": "dusk",
+    "id": 1723
+  },
+  {
+    "gloss": "dvd",
+    "id": 1724
+  },
+  {
+    "gloss": "dye",
+    "id": 1725
+  },
+  {
+    "gloss": "e",
+    "id": 1726
+  },
+  {
+    "gloss": "either",
+    "id": 1727
+  },
+  {
+    "gloss": "electricity",
+    "id": 1728
+  },
+  {
+    "gloss": "elementary",
+    "id": 1729
+  },
+  {
+    "gloss": "else",
+    "id": 1730
+  },
+  {
+    "gloss": "emergency",
+    "id": 1731
+  },
+  {
+    "gloss": "engine",
+    "id": 1732
+  },
+  {
+    "gloss": "enormous",
+    "id": 1733
+  },
+  {
+    "gloss": "eraser",
+    "id": 1734
+  },
+  {
+    "gloss": "every monday",
+    "id": 1735
+  },
+  {
+    "gloss": "every tuesday",
+    "id": 1736
+  },
+  {
+    "gloss": "everything",
+    "id": 1737
+  },
+  {
+    "gloss": "except",
+    "id": 1738
+  },
+  {
+    "gloss": "exhibit",
+    "id": 1739
+  },
+  {
+    "gloss": "explode",
+    "id": 1740
+  },
+  {
+    "gloss": "express",
+    "id": 1741
+  },
+  {
+    "gloss": "f",
+    "id": 1742
+  },
+  {
+    "gloss": "fairy",
+    "id": 1743
+  },
+  {
+    "gloss": "familiar",
+    "id": 1744
+  },
+  {
+    "gloss": "festival",
+    "id": 1745
+  },
+  {
+    "gloss": "finance",
+    "id": 1746
+  },
+  {
+    "gloss": "fingerspell",
+    "id": 1747
+  },
+  {
+    "gloss": "fire",
+    "id": 1748
+  },
+  {
+    "gloss": "firefighter",
+    "id": 1749
+  },
+  {
+    "gloss": "five",
+    "id": 1750
+  },
+  {
+    "gloss": "flatter",
+    "id": 1751
+  },
+  {
+    "gloss": "fool",
+    "id": 1752
+  },
+  {
+    "gloss": "forgive",
+    "id": 1753
+  },
+  {
+    "gloss": "former",
+    "id": 1754
+  },
+  {
+    "gloss": "freeway",
+    "id": 1755
+  },
+  {
+    "gloss": "from now on",
+    "id": 1756
+  },
+  {
+    "gloss": "g",
+    "id": 1757
+  },
+  {
+    "gloss": "gang",
+    "id": 1758
+  },
+  {
+    "gloss": "gay",
+    "id": 1759
+  },
+  {
+    "gloss": "geometry",
+    "id": 1760
+  },
+  {
+    "gloss": "get up",
+    "id": 1761
+  },
+  {
+    "gloss": "gift",
+    "id": 1762
+  },
+  {
+    "gloss": "grab",
+    "id": 1763
+  },
+  {
+    "gloss": "graduation",
+    "id": 1764
+  },
+  {
+    "gloss": "grateful",
+    "id": 1765
+  },
+  {
+    "gloss": "grey",
+    "id": 1766
+  },
+  {
+    "gloss": "gymnastics",
+    "id": 1767
+  },
+  {
+    "gloss": "h",
+    "id": 1768
+  },
+  {
+    "gloss": "hang up",
+    "id": 1769
+  },
+  {
+    "gloss": "hanukkah",
+    "id": 1770
+  },
+  {
+    "gloss": "heap",
+    "id": 1771
+  },
+  {
+    "gloss": "heart attack",
+    "id": 1772
+  },
+  {
+    "gloss": "hill",
+    "id": 1773
+  },
+  {
+    "gloss": "holy",
+    "id": 1774
+  },
+  {
+    "gloss": "hop",
+    "id": 1775
+  },
+  {
+    "gloss": "host",
+    "id": 1776
+  },
+  {
+    "gloss": "hot dog",
+    "id": 1777
+  },
+  {
+    "gloss": "human",
+    "id": 1778
+  },
+  {
+    "gloss": "i",
+    "id": 1779
+  },
+  {
+    "gloss": "ill",
+    "id": 1780
+  },
+  {
+    "gloss": "illegal",
+    "id": 1781
+  },
+  {
+    "gloss": "impact",
+    "id": 1782
+  },
+  {
+    "gloss": "individual",
+    "id": 1783
+  },
+  {
+    "gloss": "inspect",
+    "id": 1784
+  },
+  {
+    "gloss": "inspire",
+    "id": 1785
+  },
+  {
+    "gloss": "intersection",
+    "id": 1786
+  },
+  {
+    "gloss": "ireland",
+    "id": 1787
+  },
+  {
+    "gloss": "iron",
+    "id": 1788
+  },
+  {
+    "gloss": "j",
+    "id": 1789
+  },
+  {
+    "gloss": "jewelry",
+    "id": 1790
+  },
+  {
+    "gloss": "journey",
+    "id": 1791
+  },
+  {
+    "gloss": "joy",
+    "id": 1792
+  },
+  {
+    "gloss": "july",
+    "id": 1793
+  },
+  {
+    "gloss": "k",
+    "id": 1794
+  },
+  {
+    "gloss": "kid",
+    "id": 1795
+  },
+  {
+    "gloss": "kindergarten",
+    "id": 1796
+  },
+  {
+    "gloss": "lady",
+    "id": 1797
+  },
+  {
+    "gloss": "lamp",
+    "id": 1798
+  },
+  {
+    "gloss": "last week",
+    "id": 1799
+  },
+  {
+    "gloss": "laundry",
+    "id": 1800
+  },
+  {
+    "gloss": "leader",
+    "id": 1801
+  },
+  {
+    "gloss": "league",
+    "id": 1802
+  },
+  {
+    "gloss": "leak",
+    "id": 1803
+  },
+  {
+    "gloss": "legal",
+    "id": 1804
+  },
+  {
+    "gloss": "let",
+    "id": 1805
+  },
+  {
+    "gloss": "liability",
+    "id": 1806
+  },
+  {
+    "gloss": "librarian",
+    "id": 1807
+  },
+  {
+    "gloss": "license",
+    "id": 1808
+  },
+  {
+    "gloss": "little bit",
+    "id": 1809
+  },
+  {
+    "gloss": "loan",
+    "id": 1810
+  },
+  {
+    "gloss": "look at",
+    "id": 1811
+  },
+  {
+    "gloss": "look for",
+    "id": 1812
+  },
+  {
+    "gloss": "lord",
+    "id": 1813
+  },
+  {
+    "gloss": "m",
+    "id": 1814
+  },
+  {
+    "gloss": "meaning",
+    "id": 1815
+  },
+  {
+    "gloss": "melody",
+    "id": 1816
+  },
+  {
+    "gloss": "melt",
+    "id": 1817
+  },
+  {
+    "gloss": "mention",
+    "id": 1818
+  },
+  {
+    "gloss": "microscope",
+    "id": 1819
+  },
+  {
+    "gloss": "midnight",
+    "id": 1820
+  },
+  {
+    "gloss": "military",
+    "id": 1821
+  },
+  {
+    "gloss": "mine",
+    "id": 1822
+  },
+  {
+    "gloss": "mistake",
+    "id": 1823
+  },
+  {
+    "gloss": "mock",
+    "id": 1824
+  },
+  {
+    "gloss": "moose",
+    "id": 1825
+  },
+  {
+    "gloss": "mosquito",
+    "id": 1826
+  },
+  {
+    "gloss": "motivate",
+    "id": 1827
+  },
+  {
+    "gloss": "murder",
+    "id": 1828
+  },
+  {
+    "gloss": "n",
+    "id": 1829
+  },
+  {
+    "gloss": "narrow",
+    "id": 1830
+  },
+  {
+    "gloss": "necessary",
+    "id": 1831
+  },
+  {
+    "gloss": "negotiate",
+    "id": 1832
+  },
+  {
+    "gloss": "new york",
+    "id": 1833
+  },
+  {
+    "gloss": "nine",
+    "id": 1834
+  },
+  {
+    "gloss": "northwest",
+    "id": 1835
+  },
+  {
+    "gloss": "not yet",
+    "id": 1836
+  },
+  {
+    "gloss": "notice",
+    "id": 1837
+  },
+  {
+    "gloss": "numerous",
+    "id": 1838
+  },
+  {
+    "gloss": "nun",
+    "id": 1839
+  },
+  {
+    "gloss": "o",
+    "id": 1840
+  },
+  {
+    "gloss": "objective",
+    "id": 1841
+  },
+  {
+    "gloss": "obsess",
+    "id": 1842
+  },
+  {
+    "gloss": "obtain",
+    "id": 1843
+  },
+  {
+    "gloss": "occur",
+    "id": 1844
+  },
+  {
+    "gloss": "odor",
+    "id": 1845
+  },
+  {
+    "gloss": "olympics",
+    "id": 1846
+  },
+  {
+    "gloss": "or",
+    "id": 1847
+  },
+  {
+    "gloss": "oral",
+    "id": 1848
+  },
+  {
+    "gloss": "our",
+    "id": 1849
+  },
+  {
+    "gloss": "overcome",
+    "id": 1850
+  },
+  {
+    "gloss": "pack",
+    "id": 1851
+  },
+  {
+    "gloss": "painter",
+    "id": 1852
+  },
+  {
+    "gloss": "part",
+    "id": 1853
+  },
+  {
+    "gloss": "pause",
+    "id": 1854
+  },
+  {
+    "gloss": "peaceful",
+    "id": 1855
+  },
+  {
+    "gloss": "pear",
+    "id": 1856
+  },
+  {
+    "gloss": "peel",
+    "id": 1857
+  },
+  {
+    "gloss": "penalty",
+    "id": 1858
+  },
+  {
+    "gloss": "pennsylvania",
+    "id": 1859
+  },
+  {
+    "gloss": "penny",
+    "id": 1860
+  },
+  {
+    "gloss": "permit",
+    "id": 1861
+  },
+  {
+    "gloss": "phrase",
+    "id": 1862
+  },
+  {
+    "gloss": "pickle",
+    "id": 1863
+  },
+  {
+    "gloss": "pilot",
+    "id": 1864
+  },
+  {
+    "gloss": "player",
+    "id": 1865
+  },
+  {
+    "gloss": "polar bear",
+    "id": 1866
+  },
+  {
+    "gloss": "policeman",
+    "id": 1867
+  },
+  {
+    "gloss": "poop",
+    "id": 1868
+  },
+  {
+    "gloss": "post",
+    "id": 1869
+  },
+  {
+    "gloss": "potential",
+    "id": 1870
+  },
+  {
+    "gloss": "poverty",
+    "id": 1871
+  },
+  {
+    "gloss": "precious",
+    "id": 1872
+  },
+  {
+    "gloss": "precipitation",
+    "id": 1873
+  },
+  {
+    "gloss": "precise",
+    "id": 1874
+  },
+  {
+    "gloss": "preschool",
+    "id": 1875
+  },
+  {
+    "gloss": "pride",
+    "id": 1876
+  },
+  {
+    "gloss": "prince",
+    "id": 1877
+  },
+  {
+    "gloss": "princess",
+    "id": 1878
+  },
+  {
+    "gloss": "principle",
+    "id": 1879
+  },
+  {
+    "gloss": "process",
+    "id": 1880
+  },
+  {
+    "gloss": "profit",
+    "id": 1881
+  },
+  {
+    "gloss": "progress",
+    "id": 1882
+  },
+  {
+    "gloss": "propaganda",
+    "id": 1883
+  },
+  {
+    "gloss": "proper",
+    "id": 1884
+  },
+  {
+    "gloss": "psychologist",
+    "id": 1885
+  },
+  {
+    "gloss": "public",
+    "id": 1886
+  },
+  {
+    "gloss": "publish",
+    "id": 1887
+  },
+  {
+    "gloss": "purchase",
+    "id": 1888
+  },
+  {
+    "gloss": "pure",
+    "id": 1889
+  },
+  {
+    "gloss": "pursue",
+    "id": 1890
+  },
+  {
+    "gloss": "put off",
+    "id": 1891
+  },
+  {
+    "gloss": "q",
+    "id": 1892
+  },
+  {
+    "gloss": "quality",
+    "id": 1893
+  },
+  {
+    "gloss": "quarrel",
+    "id": 1894
+  },
+  {
+    "gloss": "quarter",
+    "id": 1895
+  },
+  {
+    "gloss": "r",
+    "id": 1896
+  },
+  {
+    "gloss": "rage",
+    "id": 1897
+  },
+  {
+    "gloss": "rather",
+    "id": 1898
+  },
+  {
+    "gloss": "real",
+    "id": 1899
+  },
+  {
+    "gloss": "recliner",
+    "id": 1900
+  },
+  {
+    "gloss": "recommend",
+    "id": 1901
+  },
+  {
+    "gloss": "recover",
+    "id": 1902
+  },
+  {
+    "gloss": "regular",
+    "id": 1903
+  },
+  {
+    "gloss": "release",
+    "id": 1904
+  },
+  {
+    "gloss": "relief",
+    "id": 1905
+  },
+  {
+    "gloss": "rely",
+    "id": 1906
+  },
+  {
+    "gloss": "reply",
+    "id": 1907
+  },
+  {
+    "gloss": "rescue",
+    "id": 1908
+  },
+  {
+    "gloss": "resist",
+    "id": 1909
+  },
+  {
+    "gloss": "restroom",
+    "id": 1910
+  },
+  {
+    "gloss": "retreat",
+    "id": 1911
+  },
+  {
+    "gloss": "roar",
+    "id": 1912
+  },
+  {
+    "gloss": "robber",
+    "id": 1913
+  },
+  {
+    "gloss": "roommate",
+    "id": 1914
+  },
+  {
+    "gloss": "rose",
+    "id": 1915
+  },
+  {
+    "gloss": "ruin",
+    "id": 1916
+  },
+  {
+    "gloss": "s",
+    "id": 1917
+  },
+  {
+    "gloss": "salary",
+    "id": 1918
+  },
+  {
+    "gloss": "saw",
+    "id": 1919
+  },
+  {
+    "gloss": "scan",
+    "id": 1920
+  },
+  {
+    "gloss": "scream",
+    "id": 1921
+  },
+  {
+    "gloss": "sculpture",
+    "id": 1922
+  },
+  {
+    "gloss": "sea",
+    "id": 1923
+  },
+  {
+    "gloss": "seldom",
+    "id": 1924
+  },
+  {
+    "gloss": "sequence",
+    "id": 1925
+  },
+  {
+    "gloss": "settle",
+    "id": 1926
+  },
+  {
+    "gloss": "shout",
+    "id": 1927
+  },
+  {
+    "gloss": "shovel",
+    "id": 1928
+  },
+  {
+    "gloss": "sin",
+    "id": 1929
+  },
+  {
+    "gloss": "singer",
+    "id": 1930
+  },
+  {
+    "gloss": "sixteen",
+    "id": 1931
+  },
+  {
+    "gloss": "ski",
+    "id": 1932
+  },
+  {
+    "gloss": "skip",
+    "id": 1933
+  },
+  {
+    "gloss": "smoking",
+    "id": 1934
+  },
+  {
+    "gloss": "sofa",
+    "id": 1935
+  },
+  {
+    "gloss": "soldier",
+    "id": 1936
+  },
+  {
+    "gloss": "solve",
+    "id": 1937
+  },
+  {
+    "gloss": "someday",
+    "id": 1938
+  },
+  {
+    "gloss": "something",
+    "id": 1939
+  },
+  {
+    "gloss": "somewhere",
+    "id": 1940
+  },
+  {
+    "gloss": "soul",
+    "id": 1941
+  },
+  {
+    "gloss": "spill",
+    "id": 1942
+  },
+  {
+    "gloss": "spit",
+    "id": 1943
+  },
+  {
+    "gloss": "spread",
+    "id": 1944
+  },
+  {
+    "gloss": "sprint",
+    "id": 1945
+  },
+  {
+    "gloss": "squeeze",
+    "id": 1946
+  },
+  {
+    "gloss": "stadium",
+    "id": 1947
+  },
+  {
+    "gloss": "stepfather",
+    "id": 1948
+  },
+  {
+    "gloss": "sting",
+    "id": 1949
+  },
+  {
+    "gloss": "stir",
+    "id": 1950
+  },
+  {
+    "gloss": "stitch",
+    "id": 1951
+  },
+  {
+    "gloss": "stuck",
+    "id": 1952
+  },
+  {
+    "gloss": "sue",
+    "id": 1953
+  },
+  {
+    "gloss": "sunshine",
+    "id": 1954
+  },
+  {
+    "gloss": "superman",
+    "id": 1955
+  },
+  {
+    "gloss": "surrender",
+    "id": 1956
+  },
+  {
+    "gloss": "suspend",
+    "id": 1957
+  },
+  {
+    "gloss": "swimming",
+    "id": 1958
+  },
+  {
+    "gloss": "t",
+    "id": 1959
+  },
+  {
+    "gloss": "talent",
+    "id": 1960
+  },
+  {
+    "gloss": "telescope",
+    "id": 1961
+  },
+  {
+    "gloss": "tempt",
+    "id": 1962
+  },
+  {
+    "gloss": "ten",
+    "id": 1963
+  },
+  {
+    "gloss": "tend",
+    "id": 1964
+  },
+  {
+    "gloss": "testify",
+    "id": 1965
+  },
+  {
+    "gloss": "texas",
+    "id": 1966
+  },
+  {
+    "gloss": "text",
+    "id": 1967
+  },
+  {
+    "gloss": "than",
+    "id": 1968
+  },
+  {
+    "gloss": "therefore",
+    "id": 1969
+  },
+  {
+    "gloss": "thrill",
+    "id": 1970
+  },
+  {
+    "gloss": "tobacco",
+    "id": 1971
+  },
+  {
+    "gloss": "toilet paper",
+    "id": 1972
+  },
+  {
+    "gloss": "tolerate",
+    "id": 1973
+  },
+  {
+    "gloss": "torture",
+    "id": 1974
+  },
+  {
+    "gloss": "towel",
+    "id": 1975
+  },
+  {
+    "gloss": "trip",
+    "id": 1976
+  },
+  {
+    "gloss": "truth",
+    "id": 1977
+  },
+  {
+    "gloss": "turn",
+    "id": 1978
+  },
+  {
+    "gloss": "tv",
+    "id": 1979
+  },
+  {
+    "gloss": "u",
+    "id": 1980
+  },
+  {
+    "gloss": "unique",
+    "id": 1981
+  },
+  {
+    "gloss": "upstairs",
+    "id": 1982
+  },
+  {
+    "gloss": "v",
+    "id": 1983
+  },
+  {
+    "gloss": "vacant",
+    "id": 1984
+  },
+  {
+    "gloss": "vague",
+    "id": 1985
+  },
+  {
+    "gloss": "valley",
+    "id": 1986
+  },
+  {
+    "gloss": "vampire",
+    "id": 1987
+  },
+  {
+    "gloss": "very",
+    "id": 1988
+  },
+  {
+    "gloss": "vice president",
+    "id": 1989
+  },
+  {
+    "gloss": "viewpoint",
+    "id": 1990
+  },
+  {
+    "gloss": "visualize",
+    "id": 1991
+  },
+  {
+    "gloss": "vlog",
+    "id": 1992
+  },
+  {
+    "gloss": "volleyball",
+    "id": 1993
+  },
+  {
+    "gloss": "w",
+    "id": 1994
+  },
+  {
+    "gloss": "washington",
+    "id": 1995
+  },
+  {
+    "gloss": "waterfall",
+    "id": 1996
+  },
+  {
+    "gloss": "weigh",
+    "id": 1997
+  },
+  {
+    "gloss": "wheelchair",
+    "id": 1998
+  },
+  {
+    "gloss": "whistle",
+    "id": 1999
+  }
+]

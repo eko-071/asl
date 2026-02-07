@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SignLink | Real-time ASL Translation</title>
+    <link rel="stylesheet" href="/home/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="top-left-branding">
+        <img src="/home/A.png">
+        <img src="/home/S.png">
+        <img src="/home/L.png">
+        <img src="/home/Hyphen.png" style="height: 30px; transform: translateY(11px);">
+        <img src="/home/M.png">
+        <img src="/home/E.png">
+        <img src="/home/E.png">
+        <img src="/home/T.png">
+    </div>
+
+    <div class="bright-aurora"></div>
+    <div class="hand-canvas" id="handCanvas"></div>
+
+    <!-- Hero Section -->
+    <div class="hero-section">
+        <div class="hero-content">
+            <h1 class="hero-title">Real-Time ASL Translation</h1>
+            <p class="hero-subtitle">Connect with anyone, anywhere. AI-powered sign language translation for seamless communication.</p>
+            <button class="cta-button hover-float" onclick="scrollToMeet()">Start a Meeting →</button>
+        </div>
+    </div>
+
+    <!-- How It Works Section -->
+    <div class="how-it-works">
+        <h2>How SignLink Works</h2>
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="feature-icon">🧑‍🦯</div>
+                <h3>Deaf User</h3>
+                <p>Signs to the camera. AI analyzes video frames in real-time.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">🤖</div>
+                <h3>AI Processing</h3>
+                <p>I3D model runs locally in-browser. Predicts sign language glosses instantly.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">📝</div>
+                <h3>Captions</h3>
+                <p>Predictions sent as captions. Hearing user sees text in real-time.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">🔊</div>
+                <h3>Text-to-Speech</h3>
+                <p>Captions automatically spoken. Hearing user hears what deaf user signed.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Key Benefits Section -->
+    <div class="benefits-section">
+        <div class="benefit-item">
+            <h3>✓ No Audio Needed</h3>
+            <p>Perfect for deaf-hearing communication. No need for both audio and video.</p>
+        </div>
+        <div class="benefit-item">
+            <h3>✓ Private & Secure</h3>
+            <p>All processing happens in your browser. Video never leaves your device.</p>
+        </div>
+        <div class="benefit-item">
+            <h3>✓ Instant Translation</h3>
+            <p>AI inference happens locally. Results in 2-3 seconds per sign.</p>
+        </div>
+        <div class="benefit-item">
+            <h3>✓ Support 2000+ Signs</h3>
+            <p>Trained on comprehensive WLASL dataset. Covers common and advanced signs.</p>
+        </div>
+    </div>
+
+    <!-- Main Card for Meet Selection -->
+    <div class="central-card" id="mainCard" style="margin-top: 40px;">
+        <div class="tab-header">
+            <button class="tab-btn hover-float" id="newTab" onclick="switchTab('new')">✨ New Meet</button>
+            <button class="tab-btn hover-float" id="joinTab" onclick="switchTab('join')">🔗 Join Meet</button>
+        </div>
+
+        <div class="expansion-slot" id="expansionSlot">
+            <div class="content-wrapper">
+                <div class="input-group">
+                    <label>Display Name</label>
+                    <input type="text" id="userName" placeholder="Your name...">
+                </div>
+
+                <div id="newSection" class="flow-content hidden">
+                    <label>Meeting ID</label>
+                    <div class="id-container">
+                        <span id="displayId">...</span>
+                        <button class="circle-copy-btn hover-float" onclick="copyId()">
+                            <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="3" fill="none"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                        </button>
+                    </div>
+                </div>
+
+                <div id="joinSection" class="flow-content hidden">
+                    <label>Enter Code</label>
+                    <input
+                        type="text"
+                        id="joinInput"
+                        placeholder="XXXXXX"
+                        maxlength="6"
+                        oninput="this.value = this.value.toUpperCase()"
+                        />
+                </div>
+
+                <div class="toggle-container">
+                    <span>Deaf?</span>
+                    <label class="switch">
+                        <input type="checkbox" id="deafToggle">
+                        <span class="slider round"></span>
+                    </label>
+                </div>
+
+                <button class="main-submit-btn hover-float" id="submitBtn" onclick="handleFinalize()">Start Meeting</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+    <script src="/home/script.js"></script>
+</body>
+</html>
