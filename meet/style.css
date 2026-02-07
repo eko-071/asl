@@ -1,3 +1,53 @@
+/* Incoming call overlay */
+.incoming-call-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+  border-radius: 16px;
+}
+
+.incoming-call-overlay.show {
+  display: flex;
+}
+
+.incoming-call-box {
+  text-align: center;
+  padding: 30px 50px;
+  background: rgba(40, 40, 40, 0.95);
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.incoming-call-box p {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0 0 20px 0;
+}
+
+.accept-call-btn {
+  padding: 12px 40px;
+  font-size: 18px;
+  font-weight: 600;
+  background: #22c55e;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.accept-call-btn:hover {
+  background: #16a34a;
+  transform: scale(1.05);
+}
+
 /* Control tray - floating at bottom of video */
 .control-tray {
   position: absolute;

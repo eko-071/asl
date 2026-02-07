@@ -7,8 +7,11 @@ const peerIdInput = document.getElementById("peerId");
 const inferenceBtn = document.getElementById("inferenceBtn");
 const bufferStatus = document.getElementById("bufferStatus");
 const bufferPercentage = document.getElementById("bufferPercentage");
+const incomingCallOverlay = document.getElementById("incomingCall");
+const acceptCallBtn = document.getElementById("acceptCallBtn");
 
 let localStream;
+let pendingCall = null;
 let conn;
 let call;
 let captionTimeout;
@@ -162,11 +165,11 @@ async function getIceServers() {
   // Try Metered API first
   try {
     const res = await fetch(
-      'https://${METERED_DOMAIN}/api/v1/turn/credentials?apiKey=${METERED_SECRET}'
+      `https://${METERED_DOMAIN}/api/v1/turn/credentials?apiKey=${METERED_SECRET}`
     );
     
     if (!res.ok) {
-      throw new Error('HTTP ${res.status}');
+      throw new Error(`HTTP ${res.status}`);
     }
     
     const data = await res.json();
@@ -254,27 +257,9 @@ async function initPeer() {
   });
 
   peer.on("call", incoming => {
-    call = incoming;
-    if (localStream) {
-      call.answer(localStream);
-    } else {
-      // Wait for camera
-      const waitForStream = setInterval(() => {
-        if (localStream) {
-          clearInterval(waitForStream);
-          call.answer(localStream);
-        }
-      }, 100);
-    }
-    call.on("stream", stream => {
-      remoteVideo.srcObject = stream;
-      // Start muted to allow autoplay, user can unmute
-      remoteVideo.muted = true;
-      remoteVideo.play().then(() => {
-        // Unmute after play starts
-        remoteVideo.muted = false;
-      }).catch(err => console.log("Autoplay issue:", err));
-    });
+    // Store the incoming call and show accept button
+    pendingCall = incoming;
+    incomingCallOverlay.classList.add("show");
   });
 
   peer.on("connection", c => {
@@ -366,3 +351,40 @@ function showCaption(text) {
 -------------------------- */
 inferenceBtn.addEventListener("click", toggleInference);
 inferenceBtn.disabled = true; // Disabled until model loads
+
+/* --------------------------
+   Accept Call Handler
+-------------------------- */
+acceptCallBtn.addEventListener("click", () => {
+  // Unlock TTS with user gesture
+  const unlock = new SpeechSynthesisUtterance("");
+  speechSynthesis.speak(unlock);
+
+  // Hide overlay
+  incomingCallOverlay.classList.remove("show");
+
+  // Answer the pending call
+  if (pendingCall) {
+    call = pendingCall;
+    pendingCall = null;
+
+    if (localStream) {
+      call.answer(localStream);
+    } else {
+      const waitForStream = setInterval(() => {
+        if (localStream) {
+          clearInterval(waitForStream);
+          call.answer(localStream);
+        }
+      }, 100);
+    }
+
+    call.on("stream", stream => {
+      remoteVideo.srcObject = stream;
+      remoteVideo.muted = true;
+      remoteVideo.play().then(() => {
+        remoteVideo.muted = false;
+      }).catch(err => console.log("Autoplay issue:", err));
+    });
+  }
+});
