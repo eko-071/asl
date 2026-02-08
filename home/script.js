@@ -74,8 +74,18 @@ function handleFinalize() {
     }
 
     // Direct Success flow
-    // Direct Success flow
     spawnToast("Connecting...", "success");
+
+    // Store meeting info for the meet page
+    const meetingData = {
+        name: name,
+        isDeaf: document.getElementById('deafToggle').checked,
+        isHost: currentTab === 'new',
+        meetingId: currentTab === 'new' 
+            ? document.getElementById('displayId').innerText 
+            : joinIn
+    };
+    localStorage.setItem('signlink_meeting', JSON.stringify(meetingData));
 
     setTimeout(() => {
         // go to the meet page which is in the sibling 'meet' folder

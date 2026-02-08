@@ -115,12 +115,15 @@ async function inferenceLoop() {
           
           console.log("🎯 Prediction:", caption);
           
-          // Show locally (sender also sees/hears their prediction)
-          showCaption(caption);
+          // Show locally (sender sees but deaf won't hear TTS)
+          showCaption(caption, false);
           
           // Send to remote peer
           if (conn && conn.open) {
+            console.log("📤 Sending to remote:", caption);
             conn.send(caption);
+          } else {
+            console.warn("⚠️ Data channel not open, cannot send caption");
           }
         }
       } catch (error) {
@@ -216,11 +219,26 @@ function getFallbackServers() {
 -------------------------- */
 let peer;
 let peerReady = false;
-const myId = Math.random().toString(36).slice(2, 8).toUpperCase();
+
+// Get meeting data from home page
+const meetingData = JSON.parse(localStorage.getItem('signlink_meeting') || '{}');
+const isHost = meetingData.isHost || false;
+const isDeaf = meetingData.isDeaf || false;
+const meetingId = meetingData.meetingId || '';
+
+// Host uses meeting ID as peer ID, joiner uses random ID
+const myId = isHost && meetingId 
+  ? meetingId 
+  : Math.random().toString(36).slice(2, 8).toUpperCase();
 
 function tryEnableCall() {
   if (localStream && peerReady) {
     callBtn.disabled = false;
+    
+    // If joining (not host), auto-fill the peer ID and call
+    if (!isHost && meetingId) {
+      peerIdInput.value = meetingId;
+    }
   }
 }
 
@@ -276,6 +294,12 @@ async function initPeer() {
   initPeer();
   await new Promise(r => setTimeout(r, 500)); // Brief delay
   await initializeI3D();
+  
+  // Auto-enable inference for deaf users
+  if (isDeaf && i3d && i3d.isModelLoaded) {
+    console.log("Auto-enabling ASL inference (deaf user)");
+    toggleInference();
+  }
 })();
 
 /* --------------------------
@@ -325,8 +349,10 @@ callBtn.onclick = () => {
    Data Channel
 -------------------------- */
 function setupConn() {
+  console.log("✓ Data channel connected");
   conn.on("data", text => {
-    showCaption(text);
+    console.log("📥 Received from remote:", text);
+    showCaption(text, true); // fromRemote = true, so TTS will play
   });
 }
 
@@ -353,7 +379,7 @@ function speak(text) {
   speechSynthesis.speak(msg);
 }
 
-function showCaption(text) {
+function showCaption(text, fromRemote = false) {
   caption.textContent = text;
   caption.classList.add("show");
 
@@ -363,11 +389,16 @@ function showCaption(text) {
   }, 3000);
 
   // Play TTS - extract gloss from "GLOSS (confidence)" format
-  let toSpeak = text;
-  if (text.includes("(")) {
-    toSpeak = text.substring(0, text.indexOf("(")).trim();
+  // Only speak if: receiving from remote, OR if not deaf (hearing user testing locally)
+  const shouldSpeak = fromRemote || !isDeaf;
+  
+  if (shouldSpeak) {
+    let toSpeak = text;
+    if (text.includes("(")) {
+      toSpeak = text.substring(0, text.indexOf("(")).trim();
+    }
+    speak(toSpeak);
   }
-  speak(toSpeak);
 }
 
 /* --------------------------
