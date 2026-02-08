@@ -299,8 +299,7 @@ callBtn.onclick = () => {
   if (!id || !localStream || !peerReady) return;
 
   // Unlock TTS with user gesture (so incoming captions can be spoken)
-  const unlock = new SpeechSynthesisUtterance("");
-  speechSynthesis.speak(unlock);
+  speakText(" ");
 
   // video
   call = peer.call(id, localStream);
@@ -331,6 +330,39 @@ function setupConn() {
 /* --------------------------
    Caption + TTS
 -------------------------- */
+let ttsVoice = null;
+let ttsReady = false;
+
+// Load voices (Chrome loads them async)
+function loadVoices() {
+  const voices = speechSynthesis.getVoices();
+  if (voices.length > 0) {
+    // Prefer English voice
+    ttsVoice = voices.find(v => v.lang.startsWith('en')) || voices[0];
+    ttsReady = true;
+    console.log("TTS voice loaded:", ttsVoice.name);
+  }
+}
+
+// Try loading voices immediately and on change
+loadVoices();
+speechSynthesis.onvoiceschanged = loadVoices;
+
+function speakText(text) {
+  if (!ttsReady || !text) return;
+  
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.voice = ttsVoice;
+  utterance.rate = 1.0;
+  utterance.pitch = 1.0;
+  
+  // Cancel any ongoing speech, then speak after brief delay
+  speechSynthesis.cancel();
+  setTimeout(() => {
+    speechSynthesis.speak(utterance);
+  }, 50);
+}
+
 function showCaption(text) {
   caption.textContent = text;
   caption.classList.add("show");
@@ -343,9 +375,8 @@ function showCaption(text) {
   // Play TTS for predictions - extract gloss from "GLOSS (confidence)" format
   if (text.includes("(") && text.includes(")")) {
     const gloss = text.substring(0, text.indexOf("(")).trim();
-    speechSynthesis.cancel();
     if (gloss) {
-      speechSynthesis.speak(new SpeechSynthesisUtterance(gloss));
+      speakText(gloss);
     }
   }
 }
@@ -361,8 +392,7 @@ inferenceBtn.disabled = true; // Disabled until model loads
 -------------------------- */
 acceptCallBtn.addEventListener("click", () => {
   // Unlock TTS with user gesture
-  const unlock = new SpeechSynthesisUtterance("");
-  speechSynthesis.speak(unlock);
+  speakText(" ");
 
   // Hide overlay
   incomingCallOverlay.classList.remove("show");
