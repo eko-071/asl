@@ -63,13 +63,3 @@ Real-time ASL to speech translation for video calls. AI runs entirely in-browser
 │   └── models/           # i3d_asl2000.onnx (~50MB)
 └── vercel.json           # Deployment config
 ```
-
-## Run Locally
-
-```bash
-npx serve .
-```
-
-## Deploy
-
-Push to GitHub → Import in Vercel → Done.
