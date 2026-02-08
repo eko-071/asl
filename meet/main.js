@@ -115,15 +115,12 @@ async function inferenceLoop() {
           
           console.log("🎯 Prediction:", caption);
           
-          // Show locally (sender sees but deaf won't hear TTS)
-          showCaption(caption, false);
+          // Show locally (sender also sees/hears their prediction)
+          showCaption(caption);
           
           // Send to remote peer
           if (conn && conn.open) {
-            console.log("📤 Sending to remote:", caption);
             conn.send(caption);
-          } else {
-            console.warn("⚠️ Data channel not open, cannot send caption");
           }
         }
       } catch (error) {
@@ -235,9 +232,16 @@ function tryEnableCall() {
   if (localStream && peerReady) {
     callBtn.disabled = false;
     
-    // If joining (not host), auto-fill the peer ID and call
+    // If joining (not host), auto-fill the peer ID and auto-connect
     if (!isHost && meetingId) {
       peerIdInput.value = meetingId;
+      // Auto-connect after a brief delay to ensure everything is ready
+      setTimeout(() => {
+        if (!call) { // Only if not already in a call
+          console.log("Auto-connecting to meeting:", meetingId);
+          startCall(meetingId);
+        }
+      }, 500);
     }
   }
 }
@@ -320,16 +324,14 @@ navigator.mediaDevices.getUserMedia({
 /* --------------------------
    Call Peer
 -------------------------- */
-callBtn.onclick = () => {
-  const id = peerIdInput.value.trim().toUpperCase();
-
-  if (!id || !localStream || !peerReady) return;
+function startCall(targetId) {
+  if (!targetId || !localStream || !peerReady) return;
 
   // Unlock TTS with user gesture
-  speak("ready");
+  speak("connecting");
 
   // video
-  call = peer.call(id, localStream);
+  call = peer.call(targetId, localStream);
   call.on("stream", stream => {
     remoteVideo.srcObject = stream;
     remoteVideo.muted = true;
@@ -340,19 +342,22 @@ callBtn.onclick = () => {
   call.on("error", err => console.error("Call error:", err));
 
   // captions channel
-  conn = peer.connect(id);
+  conn = peer.connect(targetId);
   conn.on("open", () => setupConn());
   conn.on("error", err => console.error("Connection error:", err));
+}
+
+callBtn.onclick = () => {
+  const id = peerIdInput.value.trim().toUpperCase();
+  startCall(id);
 };
 
 /* --------------------------
    Data Channel
 -------------------------- */
 function setupConn() {
-  console.log("✓ Data channel connected");
   conn.on("data", text => {
-    console.log("📥 Received from remote:", text);
-    showCaption(text, true); // fromRemote = true, so TTS will play
+    showCaption(text);
   });
 }
 
@@ -379,7 +384,7 @@ function speak(text) {
   speechSynthesis.speak(msg);
 }
 
-function showCaption(text, fromRemote = false) {
+function showCaption(text) {
   caption.textContent = text;
   caption.classList.add("show");
 
@@ -389,16 +394,11 @@ function showCaption(text, fromRemote = false) {
   }, 3000);
 
   // Play TTS - extract gloss from "GLOSS (confidence)" format
-  // Only speak if: receiving from remote, OR if not deaf (hearing user testing locally)
-  const shouldSpeak = fromRemote || !isDeaf;
-  
-  if (shouldSpeak) {
-    let toSpeak = text;
-    if (text.includes("(")) {
-      toSpeak = text.substring(0, text.indexOf("(")).trim();
-    }
-    speak(toSpeak);
+  let toSpeak = text;
+  if (text.includes("(")) {
+    toSpeak = text.substring(0, text.indexOf("(")).trim();
   }
+  speak(toSpeak);
 }
 
 /* --------------------------
