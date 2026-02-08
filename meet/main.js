@@ -298,6 +298,10 @@ callBtn.onclick = () => {
 
   if (!id || !localStream || !peerReady) return;
 
+  // Unlock TTS with user gesture (so incoming captions can be spoken)
+  const unlock = new SpeechSynthesisUtterance("");
+  speechSynthesis.speak(unlock);
+
   // video
   call = peer.call(id, localStream);
   call.on("stream", stream => {
