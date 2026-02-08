@@ -115,6 +115,9 @@ async function inferenceLoop() {
           
           console.log("🎯 Prediction:", caption);
           
+          // Show locally (sender also sees/hears their prediction)
+          showCaption(caption);
+          
           // Send to remote peer
           if (conn && conn.open) {
             conn.send(caption);
@@ -142,7 +145,7 @@ async function toggleInference() {
   isInferenceEnabled = !isInferenceEnabled;
   
   if (isInferenceEnabled) {
-    console.log("🔴 Starting ASL inference...");
+    console.log("Starting ASL inference...");
     inferenceBtn.classList.add("active");
     i3d.clearBuffer();
     startFrameCapture();
@@ -298,8 +301,8 @@ callBtn.onclick = () => {
 
   if (!id || !localStream || !peerReady) return;
 
-  // Unlock TTS with user gesture (so incoming captions can be spoken)
-  speakText(" ");
+  // Unlock TTS with user gesture
+  speak("ready");
 
   // video
   call = peer.call(id, localStream);
@@ -330,37 +333,24 @@ function setupConn() {
 /* --------------------------
    Caption + TTS
 -------------------------- */
-let ttsVoice = null;
-let ttsReady = false;
-
-// Load voices (Chrome loads them async)
-function loadVoices() {
-  const voices = speechSynthesis.getVoices();
-  if (voices.length > 0) {
-    // Prefer English voice
-    ttsVoice = voices.find(v => v.lang.startsWith('en')) || voices[0];
-    ttsReady = true;
-    console.log("TTS voice loaded:", ttsVoice.name);
+function speak(text) {
+  if (!text || text.trim() === "") return;
+  
+  // Chrome workaround: resume if paused
+  if (speechSynthesis.paused) {
+    speechSynthesis.resume();
   }
-}
-
-// Try loading voices immediately and on change
-loadVoices();
-speechSynthesis.onvoiceschanged = loadVoices;
-
-function speakText(text) {
-  if (!ttsReady || !text) return;
   
-  const utterance = new SpeechSynthesisUtterance(text);
-  utterance.voice = ttsVoice;
-  utterance.rate = 1.0;
-  utterance.pitch = 1.0;
-  
-  // Cancel any ongoing speech, then speak after brief delay
+  // Cancel previous and speak
   speechSynthesis.cancel();
-  setTimeout(() => {
-    speechSynthesis.speak(utterance);
-  }, 50);
+  
+  const msg = new SpeechSynthesisUtterance(text);
+  msg.lang = "en-US";
+  
+  // Log for debugging
+  console.log("Speaking:", text);
+  
+  speechSynthesis.speak(msg);
 }
 
 function showCaption(text) {
@@ -372,13 +362,12 @@ function showCaption(text) {
     caption.classList.remove("show");
   }, 3000);
 
-  // Play TTS for predictions - extract gloss from "GLOSS (confidence)" format
-  if (text.includes("(") && text.includes(")")) {
-    const gloss = text.substring(0, text.indexOf("(")).trim();
-    if (gloss) {
-      speakText(gloss);
-    }
+  // Play TTS - extract gloss from "GLOSS (confidence)" format
+  let toSpeak = text;
+  if (text.includes("(")) {
+    toSpeak = text.substring(0, text.indexOf("(")).trim();
   }
+  speak(toSpeak);
 }
 
 /* --------------------------
@@ -392,7 +381,7 @@ inferenceBtn.disabled = true; // Disabled until model loads
 -------------------------- */
 acceptCallBtn.addEventListener("click", () => {
   // Unlock TTS with user gesture
-  speakText(" ");
+  speak("connected");
 
   // Hide overlay
   incomingCallOverlay.classList.remove("show");
